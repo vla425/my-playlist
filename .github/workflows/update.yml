@@ -32,9 +32,7 @@ jobs:
               "https://www.dropbox.com/scl/fi/kwuat8byfvr99xpog1rv2/kamer_Surgut.m3u?rlkey=vaufvvhff7gi8o0620gna83t6&st=q18tk120&dl=1"
           ]
           
-                    BLACKLIST = [
-              "INFO", "Реклама", "Эротика", "18+", "Для взрослых"
-          ]
+          BLACKLIST = ["INFO", "Реклама", "Эротика", "18+", "Для взрослых"]
           
           print("--- ЗАПУСК СКРИПТА ---")
           out = ["#EXTM3U"]
