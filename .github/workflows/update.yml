@@ -2,7 +2,7 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 jobs:
@@ -29,6 +29,7 @@ jobs:
           PLAYLISTS = [
               "https://www.dropbox.com/scl/fi/gz94zy4gve1kos1ho5tmg/Surgut_RT.m3u?rlkey=hv093gf1qu1jfjogux45tsaiy&st=v4tktgk9&dl=1",
               "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
+              "https://www.dropbox.com/scl/fi/kwuat8byfvr99xpog1rv2/kamer_Surgut.m3u?rlkey=vaufvvhff7gi8o0620gna83t6&st=q18tk120&dl=1"
           ]
           
           BLACKLIST = ["Реклама", "Эротика", "18+", "Для взрослых"]
