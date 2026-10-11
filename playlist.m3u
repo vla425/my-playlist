@@ -129,12 +129,6 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RUSSK_URAL_SUR/variant.
 #EXTGRP:Местные Сургут
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_SUR/variant.m3u8
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление:🍁11.10.2026
-http://194.26.229.213/zastavka/index.m3u8
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/nrj0J6Dj/1.png",Android TV + Free TV
-http://194.26.229.213/intro/index.m3u8
-#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg",🔺 INFO 🔺Посмотри!!!
-https://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
@@ -7670,3 +7664,903 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+#EXTINF:-1 EXTVLCOPT="network-caching=1000" tvg-name="Камера Киевская 1" group-title="Камеры Сургута", Камера Киевская 1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+http://flussonic.tele-plus.ru/barsovokievskaya1/1/video.m3u8?token=EnsyadEb8
+#EXTINF:-1 EXTVLCOPT="network-caching=1000" tvg-name="Камера Центральная 7" group-title="Камеры Сургута", Камера Центральная 7
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+http://flussonic.tele-plus.ru/barsovocenrt7/video.m3u8?token=EnsyadEb8
+#EXTINF:-1 EXTVLCOPT="network-caching=1000" tvg-name="Камера Центральная 11" group-title="Камеры Сургута", Камера Центральная 11
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+http://flussonic.tele-plus.ru/barsovocenrt11/video.m3u8?token=EnsyadEb8
+#EXTINF:-1 tvg-name="Ленина 62 .10 подъезд" group-title="Камеры Сургута", Ленина 62 .10 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lenina_62_10pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 19" group-title="Камеры Сургута", Мира 19
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira19/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 3" group-title="Камеры Сургута", Университетская 3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_3_top/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 11 . 4подъезд" group-title="Камеры Сургута", Университетская 11 . 4подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_11_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Гагарина 30 6 подъезд" group-title="Камеры Сургута", Гагарина 30 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Gagarina_30_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 42" group-title="Камеры Сургута", Югорская 42
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ugorskaya_42/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира-Пушкина" group-title="Камеры Сургута", Мира-Пушкина
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira-Pushkina/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каролинского 14.1" group-title="Камеры Сургута", Каролинского 14.1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karolinskogo_14/1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская-Ленина" group-title="Камеры Сургута", Университетская-Ленина
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer-Lenina/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 3" group-title="Камеры Сургута", Университетская 3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_3_top/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 11 4 подъезд" group-title="Камеры Сургута", Университетская 11 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_11_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Ленина 33" group-title="Камеры Сургута", Ленина 33
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lenina_33_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Гагарина 30 6 подъезд" group-title="Камеры Сургута", Гагарина 30 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Gagarina_30_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Энгельса 7 4 подъезд" group-title="Камеры Сургута", Энгельса 7 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Engelsa_7_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Энергетиков 1 5 подъезд" group-title="Камеры Сургута", Энергетиков 1 5 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Energetikov_1_5pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 41 ТР1" group-title="Камеры Сургута", Мира 41 ТР1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira_41_truba/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 41 ТР2" group-title="Камеры Сургута", Мира 41 ТР2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira_41_truba2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 42" group-title="Камеры Сургута", Югорская 42
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ugorskaya_42/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 37/1" group-title="Камеры Сургута", 30 лет победы 37/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_37/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 37/1-3" group-title="Камеры Сургута", 30 лет победы 37/1-3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_37/1_3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 37/2-2" group-title="Камеры Сургута", 30 лет победы 37/2-2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_37/2_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 39/2" group-title="Камеры Сургута", 30 лет победы 39/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_39_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 41/1" group-title="Камеры Сургута", 30 лет победы 41/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_41/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 43" group-title="Камеры Сургута", 30 лет победы 43
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_43/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 45-2" group-title="Камеры Сургута", 30 лет победы 45-2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobet_45_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 52/1" group-title="Камеры Сургута", 30 лет победы 52/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobedy_52/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 54" group-title="Камеры Сургута", 30 лет победы 54
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobedy_54/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 54-2" group-title="Камеры Сургута", 30 лет победы 54-2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobedy_54_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 56/1-1" group-title="Камеры Сургута", 30 лет победы 56/1-1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobedy_56/1_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 56/1-2" group-title="Камеры Сургута", 30 лет победы 56/1-2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobedy_56/1_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="30 лет победы 62" group-title="Камеры Сургута", 30 лет победы 62
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/30_Let_Pobedy_62/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белицкого 12" group-title="Камеры Сургута", Белицкого 12
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Beleckogo12/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белицкого 12 1 подъезд" group-title="Камеры Сургута", Белицкого 12 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Beleckogo_12_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белицкого 12 2 подъезд" group-title="Камеры Сургута", Белицкого 12 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Beleckogo_12_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белицкого 12/1 1 подъезд" group-title="Камеры Сургута", Белицкого 12/1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Beleckogo12/1_1p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белицкого 14 1 подъезд" group-title="Камеры Сургута", Белицкого 14 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bileckogo_14_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 6 4 подъезд" group-title="Камеры Сургута", Быстринская 6 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bistrinskaya6_4p_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 8" group-title="Камеры Сургута", Быстринская 8
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay8/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 8/1" group-title="Камеры Сургута", Быстринская 8/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay8/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 8/1 3 подъезд" group-title="Камеры Сургута", Быстринская 8/1 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay8/1_3p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 10 2 подъезд" group-title="Камеры Сургута", Быстринская 10 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay10_2p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 12 1 подъезд" group-title="Камеры Сургута", Быстринская 12 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay12_1p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 12 3 подъезд" group-title="Камеры Сургута", Быстринская 12 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay12_3p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 18" group-title="Камеры Сургута", Быстринская 18
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay18/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 18 2 подъезд" group-title="Камеры Сургута", Быстринская 18 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay18_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 20/3" group-title="Камеры Сургута", Быстринская 20/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay20/3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Быстринская 20/3 2 подъезд" group-title="Камеры Сургута", Быстринская 20/3 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bstrinskay20/3_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Восход 21 1 подъезд" group-title="Камеры Сургута", Восход 21 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Voshod_21_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Восход 21 3 подъезд" group-title="Камеры Сургута", Восход 21 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Voshod_21_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Генерала Иванова 3/1 1 подъезд" group-title="Камеры Сургута", Генерала Иванова 3/1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Generala_Ivanova_3/1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Генерала Иванова 3/2 2 подъезд" group-title="Камеры Сургута", Генерала Иванова 3/2 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Generala_Ivanova_3/2_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Генерала Иванова 5 2 подъезд" group-title="Камеры Сургута", Генерала Иванова 5 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Generala_Ivanova_5_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Генерала Иванова 5/1 1 подъезд" group-title="Камеры Сургута", Генерала Иванова 5/1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Generala_Ivanova_5/1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Генерала Иванова 7 3 подъезд 1 камера" group-title="Камеры Сургута", Генерала Иванова 7 3 подъезд 1 камера
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Generala_Ivanova_7_3pod_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Генерала Иванова 7 3 подъезд 2 камера" group-title="Камеры Сургута", Генерала Иванова 7 3 подъезд 2 камера
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Generala_Ivanova_7_3pod_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Геолог 15/1 1 подъезд" group-title="Камеры Сургута", Геолог 15/1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Geolog_15/1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Геолог 15/1 11 подъезд" group-title="Камеры Сургута", Геолог 15/1 11 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Geolog_15/1_11pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Грибоедова 5" group-title="Камеры Сургута", Грибоедова 5
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Griboedova_5/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Есенина 8 1 подъезд" group-title="Камеры Сургута", Есенина 8 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Esenina_8_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Есенина 8 3 подъезд" group-title="Камеры Сургута", Есенина 8 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Esenina_8_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 2" group-title="Камеры Сургута", Захарова 2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 2/1 2 подъезд" group-title="Камеры Сургута", Захарова 2/1 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_2/1_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 2/1 5 подъезд" group-title="Камеры Сургута", Захарова 2/1 5 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_2/1_5pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 4" group-title="Камеры Сургута", Захарова 4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 9" group-title="Камеры Сургута", Захарова 9
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_9/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 9 2 подъезд" group-title="Камеры Сургута", Захарова 9 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_9.2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 10 1 подъезд" group-title="Камеры Сургута", Захарова 10 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_10_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 10/1 1 подъезд" group-title="Камеры Сургута", Захарова 10/1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_10/1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 11" group-title="Камеры Сургута", Захарова 11
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_11/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 19 6 подъезд" group-title="Камеры Сургута", Захарова 19 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_19_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 19 8 подъезд" group-title="Камеры Сургута", Захарова 19 8 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_19_8pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 20 1 подъезд" group-title="Камеры Сургута", Захарова 20 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_20_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Захарова 20 7 подъезд" group-title="Камеры Сургута", Захарова 20 7 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Zaharova_20_7pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 8" group-title="Камеры Сургута", Каралинского 8
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_8/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 10" group-title="Камеры Сургута", Каралинского 10
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_10/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 10 2 подъезд" group-title="Камеры Сургута", Каралинского 10 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_10_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 12 3 подъезд" group-title="Камеры Сургута", Каралинского 12 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karolinskogo12_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 13" group-title="Камеры Сургута", Каралинского 13
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_13/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 13 2 подъезд" group-title="Камеры Сургута", Каралинского 13 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_13_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 13/1" group-title="Камеры Сургута", Каралинского 13/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_13/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 14 1 подъезд" group-title="Камеры Сургута", Каралинского 14 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karolinskogo_14_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 14/2 4 подъезд" group-title="Камеры Сургута", Каралинского 14/2 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karolinskogo_14/2_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 14/2 7 подъезд" group-title="Камеры Сургута", Каралинского 14/2 7 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karolinskogo_14/2_7pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Каралинского 15" group-title="Камеры Сургута", Каралинского 15
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Karalinskogo_15/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 9 3 подъезд" group-title="Камеры Сургута", Игоря Киртбая 9 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay9_3p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 9 11 подъезд" group-title="Камеры Сургута", Игоря Киртбая 9 11 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kirtbay_9_11pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 13/1" group-title="Камеры Сургута", Игоря Киртбая 13/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay13_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 13/1 2 подъезд" group-title="Камеры Сургута", Игоря Киртбая 13/1 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay13_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 13/1 1 подъезд" group-title="Камеры Сургута", Игоря Киртбая 13/1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay13/1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 17/1" group-title="Камеры Сургута", Игоря Киртбая 17/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay17_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 17/2" group-title="Камеры Сургута", Игоря Киртбая 17/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay17_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 18 1 подъезд" group-title="Камеры Сургута", Игоря Киртбая 18 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kirtbay_18_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 18 3 подъезд" group-title="Камеры Сургута", Игоря Киртбая 18 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kirtbay_18_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 18 6 подъезд" group-title="Камеры Сургута", Игоря Киртбая 18 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kirtbay_18_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 19/1" group-title="Камеры Сургута", Игоря Киртбая 19/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay19/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 19/3" group-title="Камеры Сургута", Игоря Киртбая 19/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay19/3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 20 1 подъезд" group-title="Камеры Сургута", Игоря Киртбая 20 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kirtbay_20_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 20 3 подъезд" group-title="Камеры Сургута", Игоря Киртбая 20 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kirtbay_20_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 21/1" group-title="Камеры Сургута", Игоря Киртбая 21/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay21/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 21/2" group-title="Камеры Сургута", Игоря Киртбая 21/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay21/2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 25/1" group-title="Камеры Сургута", Игоря Киртбая 25/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay25_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Игоря Киртбая 25/2" group-title="Камеры Сургута", Игоря Киртбая 25/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Igor_Kirtbay25_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Проспект Комсомольский 13 1 подъезд" group-title="Камеры Сургута", Проспект Комсомольский 13 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/pr-t_Komsomol_13_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Проспект Комсомольский 13 4 подъезд" group-title="Камеры Сургута", Проспект Комсомольский 13 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/pr-t_Komsomol_13_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Проспект Комсомольский 13 6 подъезд" group-title="Камеры Сургута", Проспект Комсомольский 13 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/pr-t_Komsomol_13_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Проспект Комсомольский 15 5 подъезд" group-title="Камеры Сургута", Проспект Комсомольский 15 5 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/pr-t_Komsomol_15_5pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Крылова 32 8 подъезд" group-title="Камеры Сургута", Крылова 32 8 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Krilova32_8pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Крылова 36 1 подъезд" group-title="Камеры Сургута", Крылова 36 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Krilova36_1p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Крылова 38 1 подъезд" group-title="Камеры Сургута", Крылова 38 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Krilova38_1p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Крылова 38 3 подъезд" group-title="Камеры Сургута", Крылова 38 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Krilova38_3p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Крылова 41" group-title="Камеры Сургута", Крылова 41
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Krilova_41/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Крылова 43/1" group-title="Камеры Сургута", Крылова 43/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Krilova_43/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Ленина 34 1 подъезд" group-title="Камеры Сургута", Ленина 34 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lenina_34_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Ленина 34 7 подъезд" group-title="Камеры Сургута", Ленина 34 7 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lenina_34_7pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Ленина 34 14 подъезд" group-title="Камеры Сургута", Ленина 34 14 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lenina_34_14pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Лермонтова 3 1 подъезд" group-title="Камеры Сургута", Лермонтова 3 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lermontova_3_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Лермонтова 11 1 подъезд" group-title="Камеры Сургута", Лермонтова 11 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lermontova11_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Лермонтова 11/1 4 подъезд" group-title="Камеры Сургута", Лермонтова 11/1 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lermontova11/1_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Лермонтова 11/3 2 подъезд" group-title="Камеры Сургута", Лермонтова 11/3 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lermontova11/3_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Лермонтова 13 2 подъезд" group-title="Камеры Сургута", Лермонтова 13 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lermontova13_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Лермонтова 13/1 2 подъезд" group-title="Камеры Сургута", Лермонтова 13/1 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Lermontova_13/1_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Маяковского 10" group-title="Камеры Сургута", Маяковского 10
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Maykovskogo10/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Маяковского 10/1" group-title="Камеры Сургута", Маяковского 10/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Maykovskogo10_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Маяковского 22" group-title="Камеры Сургута", Маяковского 22
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mayakovskogo_22/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4 1 подъезд" group-title="Камеры Сургута", Мелик-Карамова 4 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4 3 подъезд" group-title="Камеры Сургута", Мелик-Карамова 4 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4 6 подъезд" group-title="Камеры Сургута", Мелик-Карамова 4 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4 8 подъезд" group-title="Камеры Сургута", Мелик-Карамова 4 8 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4_8pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4 10 подъезд" group-title="Камеры Сургута", Мелик-Карамова 4 10 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4_10pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4/1" group-title="Камеры Сургута", Мелик-Карамова 4/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 43 15 подъезд" group-title="Камеры Сургута", Мелик-Карамова 43 15 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_43_15pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 19 1 подъезд" group-title="Камеры Сургута", Мира 19 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira_19_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 53" group-title="Камеры Сургута", Мира 53
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira53/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 53/2" group-title="Камеры Сургута", Мира 53/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira53_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 55/2" group-title="Камеры Сургута", Мира 55/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira55_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мира 55/4" group-title="Камеры Сургута", Мира 55/4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Mira55_4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Показанева 4" group-title="Камеры Сургута", Показанева 4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Pokazaneva_4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Показанева 4/2" group-title="Камеры Сургута", Показанева 4/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Pokazaneva_4_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Показанева 4/3" group-title="Камеры Сургута", Показанева 4/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Pokazaneva_4_3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 1" group-title="Камеры Сургута", Пролетарский 1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 1/2" group-title="Камеры Сургута", Пролетарский 1/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy_1_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 1/3" group-title="Камеры Сургута", Пролетарский 1/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy1_3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 3/1" group-title="Камеры Сургута", Пролетарский 3/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy3/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 5/1" group-title="Камеры Сургута", Пролетарский 5/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy5_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 5/2" group-title="Камеры Сургута", Пролетарский 5/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy5_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 35" group-title="Камеры Сургута", Пролетарский 35
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy35/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Пролетарский 35/1" group-title="Камеры Сургута", Пролетарский 35/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Proletarskiy35_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Профсоюзов 16" group-title="Камеры Сургута", Профсоюзов 16
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Profsouzov_16/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Профсоюзов 18 4 подъезд" group-title="Камеры Сургута", Профсоюзов 18 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Profsouzov18_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Профсоюзов 18/2" group-title="Камеры Сургута", Профсоюзов 18/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Profsouzov18/2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Профсоюзов 22 1 подъезд" group-title="Камеры Сургута", Профсоюзов 22 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Profsouzov22_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Профсоюзов 24/1 6 подъезд" group-title="Камеры Сургута", Профсоюзов 24/1 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Profsouzov24/1_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Бульвар свободы 8 1 подъезд" group-title="Камеры Сургута", Бульвар свободы 8 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bulvar_svobody_8_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Сибирсвкая 15 1 подъезд" group-title="Камеры Сургута", Сибирсвкая 15 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Sibirskaya15_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Сибирсвкая 15 3 подъезд" group-title="Камеры Сургута", Сибирсвкая 15 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Sibirskaya15_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Сибирсвкая 15 4 подъезд" group-title="Камеры Сургута", Сибирсвкая 15 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Sibirskaya15_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Толстого 28" group-title="Камеры Сургута", Толстого 28
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tolstogo_28/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 2" group-title="Камеры Сургута", Тюменский тракт 2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 2/2" group-title="Камеры Сургута", Тюменский тракт 2/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract2_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 4" group-title="Камеры Сургута", Тюменский тракт 4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 4/2" group-title="Камеры Сургута", Тюменский тракт 4/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract4_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 6/1" group-title="Камеры Сургута", Тюменский тракт 6/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract6/1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 6/1 2 подъезд" group-title="Камеры Сургута", Тюменский тракт 6/1 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract6/1_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 8" group-title="Камеры Сургута", Тюменский тракт 8
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract8/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 10" group-title="Камеры Сургута", Тюменский тракт 10
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tumenskiy_tract10/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 19/1" group-title="Камеры Сургута", Тюменский тракт 19/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tyumenskiy_trakt_19_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Тюменский тракт 19/2" group-title="Камеры Сургута", Тюменский тракт 19/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Tyumenskiy_trakt_19_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 3" group-title="Камеры Сургута", Университетская 3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 3/1" group-title="Камеры Сургута", Университетская 3/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/univer3_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 5 2 подъезд" group-title="Камеры Сургута", Университетская 5 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_5_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 5 4 подъезд" group-title="Камеры Сургута", Университетская 5 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_5_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 5 3 подъезд" group-title="Камеры Сургута", Университетская 5 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_5_3pod_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 7 1 подъезд" group-title="Камеры Сургута", Университетская 7 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Universitetskaya7_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 7 3 подъезд" group-title="Камеры Сургута", Университетская 7 3 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Universitetskaya7_3pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 9/1" group-title="Камеры Сургута", Университетская 9/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_9.1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 9/2" group-title="Камеры Сургута", Университетская 9/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_9.2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 39 1 подъезд" group-title="Камеры Сургута", Университетская 39 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer39_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 39 6 подъезд" group-title="Камеры Сургута", Университетская 39 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer39_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 41 2 подъезд" group-title="Камеры Сургута", Университетская 41 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer41_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 41 6 подъезд" group-title="Камеры Сургута", Университетская 41 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer41_6pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Усольцева 13" group-title="Камеры Сургута", Усольцева 13
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Usolceva_13/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Усольцева 13/2" group-title="Камеры Сургута", Усольцева 13/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Usolceva_13_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Усольцева 15 2 подъезд" group-title="Камеры Сургута", Усольцева 15 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Usolceva_15_2p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Усольцева 15 6 подъезд" group-title="Камеры Сургута", Усольцева 15 6 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Usolceva_15_6p/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белитского 25/2" group-title="Камеры Сургута", Белитского 25/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bileckogo_25_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белитского 25/3" group-title="Камеры Сургута", Белитского 25/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bileckogo_25_3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белитского 25/4" group-title="Камеры Сургута", Белитского 25/4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bileckogo_25_4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белитского 25/1" group-title="Камеры Сургута", Белитского 25/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bileckogo_25_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Усольцева 25/5" group-title="Камеры Сургута", Усольцева 25/5
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Usolceva_25_5/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Чехова 14/1 5 подъезд" group-title="Камеры Сургута", Чехова 14/1 5 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Chehova14/1_5pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Чехова 20 1 подъезд" group-title="Камеры Сургута", Чехова 20 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Chehova_20_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Чехова 20 4 подъезд" group-title="Камеры Сургута", Чехова 20 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Chehova_20_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Энтузиастов 25" group-title="Камеры Сургута", Энтузиастов 25
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Entuziastov_25/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 1 1 подъезд" group-title="Камеры Сургута", Югорская 1 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_1_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 1 5 подъезд" group-title="Камеры Сургута", Югорская 1 5 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_1_5pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 1/2 1 подъезд" group-title="Камеры Сургута", Югорская 1/2 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_1/2_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/1" group-title="Камеры Сургута", Югорская 5/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/2 1 подъезд" group-title="Камеры Сургута", Югорская 5/2 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5/2_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/2 2 подъезд" group-title="Камеры Сургута", Югорская 5/2 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5/2_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/3" group-title="Камеры Сургута", Югорская 5/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5/3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/3 2 подъезд" group-title="Камеры Сургута", Югорская 5/3 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5/3_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/4" group-title="Камеры Сургута", Югорская 5/4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5/4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 17 1 подъезд" group-title="Камеры Сургута", Югорская 17 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_17_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 34 2 подъезд" group-title="Камеры Сургута", Югорская 34 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_34_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 34 4 подъезд" group-title="Камеры Сургута", Югорская 34 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_34_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 42/1 4 подъезд" group-title="Камеры Сургута", Югорская 42/1 4 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskaya_42/1_4pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорский тракт 1" group-title="Камеры Сургута", Югорский тракт 1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Yugorskiy_trakt_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4/1" group-title="Камеры Сургута", Мелик-Карамова 4/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Melik-Karamova_4_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4/2" group-title="Камеры Сургута", Мелик-Карамова 4/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Melik-Karamova_4_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4/3" group-title="Камеры Сургута", Мелик-Карамова 4/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Melik-Karamova_4_3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Киртбая 18/1" group-title="Камеры Сургута", Киртбая 18/1
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Kirtbay_18_1/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Киртбая 18/2" group-title="Камеры Сургута", Киртбая 18/2
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Kirtbay_18_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Киртбая 18/3" group-title="Камеры Сургута", Киртбая 18/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Kirtbay_18_3/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Киртбая 18/4" group-title="Камеры Сургута", Киртбая 18/4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Kirtbay_18_4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Югорская 5/4 2 подъезд" group-title="Камеры Сургута", Югорская 5/4 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Ygorskay_5/4_2/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 3 2 подъезд" group-title="Камеры Сургута", Университетская 3 2 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_3_2pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Университетская 3 1 подъезд" group-title="Камеры Сургута", Университетская 3 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Univer_3_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Белитского 12/1 Капитоша" group-title="Камеры Сургута", Белитского 12/1 Капитоша
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Bileckogo_12/1_Kapitoshka/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Ленинградская 10а 1 подъезд" group-title="Камеры Сургута", Ленинградская 10а 1 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Leningradskaya_10a_1pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4 5 подъезд" group-title="Камеры Сургута", Мелик-Карамова 4 5 подъезд
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Melik-Karamova_4_5pod/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Мелик-Карамова 4/4" group-title="Камеры Сургута", Мелик-Карамова 4/4
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/UK_Melik-Karamova_4_4/video.m3u8?token=smarty
+#EXTINF:-1 tvg-name="Кукуевитского 15/3" group-title="Камеры Сургута", Кукуевитского 15/3
+#EXTGRP:Камеры Сургута
+#EXTVLCOPT:http-user-agent=smart tv
+https://flussonic.tele-plus.ru/Kukuevickogo_15/3/video.m3u8?token=smarty
