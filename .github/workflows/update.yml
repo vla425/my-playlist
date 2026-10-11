@@ -17,11 +17,73 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Install requests
         run: pip install requests
 
-      - name: Run merge script
-        run: python merge.py
+      - name: Run Merge Script
+        run: |
+          python3 - << 'PYTHON_SCRIPT'
+          import requests
+          import sys
+
+          PLAYLISTS = [
+              "https://www.dropbox.com/scl/fi/gz94zy4gve1kos1ho5tmg/Surgut_RT.m3u?rlkey=hv093gf1qu1jfjogux45tsaiy&st=v4tktgk9&dl=1",
+              "https://raw.githubusercontent.com/Dimonovich/TV/Dimonovich/FREE/TV"
+          ]
+          
+          BLACKLIST = ["Реклама", "Эротика", "18+", "Для взрослых"]
+          
+          print("--- ЗАПУСК СКРИПТА ---")
+          out = ["#EXTM3U"]
+          success_count = 0
+
+          for url in PLAYLISTS:
+              print(f"\nСкачиваю: {url}")
+              try:
+                  r = requests.get(url, timeout=15)
+                  r.raise_for_status()
+                  
+                  # Проверка: действительно ли это плейлист?
+                  if not r.text.strip().startswith("#EXTM3U"):
+                      print(f"⚠️ ОШИБКА: Файл по ссылке {url} не является валидным M3U плейлистом!")
+                      print(f"Первые 100 символов: {r.text[:100]}")
+                      continue 
+                      
+                  lines = r.text.splitlines()
+                  skip = False
+                  
+                  for line in lines:
+                      line = line.strip()
+                      if not line or line.startswith("#EXTM3U"):
+                          continue
+                          
+                      if line.startswith("#EXTINF"):
+                          skip = any(word.lower() in line.lower() for word in BLACKLIST)
+                          if not skip:
+                              out.append(line)
+                      elif not line.startswith("#"):
+                          if not skip:
+                              out.append(line)
+                      else:
+                          if not skip:
+                              out.append(line)
+                              
+                  success_count += 1
+                  print(f"✅ Успешно обработан.")
+                  
+              except Exception as e:
+                  print(f"❌ КРИТИЧЕСКАЯ ОШИБКА для {url}: {e}")
+
+          print(f"\n--- ИТОГ: Обработано {success_count} из {len(PLAYLISTS)} ---")
+
+          if success_count == 0:
+              print("❌ СКРИПТ ПРЕРВАН: Ни один плейлист не скачан!")
+              sys.exit(1)
+
+          with open("playlist.m3u", "w", encoding="utf-8") as f:
+              f.write("\n".join(out) + "\n")
+          print("✅ Файл playlist.m3u создан!")
+          PYTHON_SCRIPT
 
       - name: Auto Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
