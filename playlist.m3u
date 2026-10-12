@@ -1401,6 +1401,198 @@ http://5.188.159.128:8070/eurosport1/tracks-v1a1/mono.m3u8
 http://5.188.159.128:8070/eurosport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Селектел (VPN)",Megogo Спорт
 http://5.188.159.128:8070/megogo_sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Uplink (VPN)",ТНТ4
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Россия 24
+https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Россия К
+https://fs.uplink.kz/rossia_k/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",РТР Планета
+https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",НТВ-Мир
+https://fs.uplink.kz/ntv_mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Рен ТВ international
+https://fs.uplink.kz/ren/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",365 дней
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Техно 24
+https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Моя планета
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Viasat Explore
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Viasat History
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Viasat Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",National Geographic
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Nat Geo Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",История
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Big planet
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Поехали!
+https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Amedia Hit HD
+https://fs.uplink.kz/amedia_hit_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Amedia Premium HD
+https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Amedia 1
+https://fs.uplink.kz/amedia_1/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Авто 24
+https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Индия
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Дом кино
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Дом кино премиум
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Домашний
+https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Еврокино
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Кинохит
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Киноужас
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Индийское кино
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Кинокомедия
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Киномикс
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Родное кино
+https://fs.uplink.kz/rodnoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Киносемья
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Киносерия
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Киносвидание
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Мужское кино
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Наше новое кино
+https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",TV1000 Русское кино
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",TV1000 Action
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",TV1000
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Москва 24
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",КВН ТВ
+https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Мир
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Мосфильм. Золотая коллекция
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",ТВЦ
+https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Ностальгия
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Новое телевидение
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Оружие
+https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Перец
+https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Победа
+https://fs.uplink.kz/pobeda/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Русский иллюзион
+https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",СТС
+https://fs.uplink.kz/sts/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",СТС Love
+https://fs.uplink.kz/sts_love/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Телекафе
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Точка отрыва
+https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Дорама
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Start Air
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Start World
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",TV XXI
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Ю
+https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Время
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Жара
+https://fs.uplink.kz/zhara/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Живи
+https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Сарафан
+https://fs.uplink.kz/sarafan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Зоопарк
+https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Звезда
+https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Astana TV
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",КТК
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",НТК
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Atameken Business
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",24 KZ
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Пятый канал
+https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",7 канал (Казахстан)
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Abai TV
+https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Almaty TV
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Habar
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Qazaqstan KZ
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",ТНВ-Планета
+https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Turan TV
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Balapan
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Bridge TV Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",МузТВ
+https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",RU.TV
+https://fs.uplink.kz/RuTV/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Шансон ТВ
+https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Европа плюс ТВ
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",В гостях у сказки
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Baby time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Лапки Live
+https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",СТС Kids
+https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Da Vinci
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Карусель
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",О!
+https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Бобёр
+https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Мульт
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Uplink (VPN)",Мультиландия
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
 https://fs.uplink.kz/khl_prime/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
@@ -2814,6 +3006,180 @@ http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2V
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
 http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNiA2OjUwOjMzIEFNJmhhc2hfdmFsdWU9Z2lwL2pVazJKcWZjdG5Hd05wTXc1Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/MAqlt1c1wfNtautT3oCiSg/e/1791874234/4000/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg", iTV Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/lKlLqHXrskvgfF8BzZhL2g/e/1791874235/4001/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/08/13//df5afa69-409f-4410-b71e-57baba82160b-q-500x500.jpeg", iTV Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/XzdaU1EiSh4shBVKhRkd9A/e/1791874235/4006/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg", Хабар 24 KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/AWQXPOoUaNCAj8K9La3zdw/e/1791874236/1408/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg", Узбекистан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/inmysiPJZWiUS_L_iF9FIg/e/1791874237/1001/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg", Ёшлар
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/atwxtce-e-w5UpLyxnMwTA/e/1791874238/1002/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg", Ташкент
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/nZkko1nu-YYFu6gNu2t3cw/e/1791874239/1003/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg", O'zbekiston 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/7Hmgqo-ZxrC5X0TlIDJ1rg/e/1791874241/1011/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/07/24//58cb6baf-bb93-4bcd-b405-ad940b1ecb83-q-500x500.jpeg", ZO'R TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/pOIhgRz2RMcti7QkD3FEVQ/e/1791874242/1286/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg", Milliy TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/L2vi4ngNMGbSGbuNAeBnuQ/e/1791874243/1014/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg", Milliy SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/WnotGc-iCcKnhOXzKOuFGg/e/1791874244/1216/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg", MY5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/VMdbC1vXE7QMcioS7e__GA/e/1791874245/1012/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg", MY5 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/b6ogW51LHFLUuSq__pBF7w/e/1791874246/1217/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg", HAYOT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/2U6euNNbSMkVeaPtgwCA7A/e/1791874249/1064/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg", Renessans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/ofYNXEfGfBa5BHXincYUSA/e/1791874250/1221/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg", DasturxonTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/3MPjgjLKNq4sip3paTtEng/e/1791874250/1206/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg", Bolajon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/PRRpqk7xFs6ZwMHn800hQA/e/1791874251/1007/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg", Aqlvoy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/uNoUZtOlfGMr0lrb15iCfQ/e/1791874252/1205/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg", Navo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/-R1BuoiU-E_9gQAcnIXryw/e/1791874253/1008/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg", Madaniyat va Marifat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/JbBPkC69tXzMnqQTVm_xQw/e/1791874253/1005/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg", Mahalla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/-5-P0ZBb_pDv-vjr4LhiBw/e/1791874254/1013/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg", Kinoteatr HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/PKc1t5ITKfObGbpIZwzFBw/e/1791874255/1009/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg", O'zbekiston tarixi FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/4SF04J8vclXe4Oi9tzvuqg/e/1791874255/1209/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg", Dunyo bo`ylab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/88Eir0uz3Uw9w8K8-3jnOA/e/1791874256/1006/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg", Uzreport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/cOCfjfQ8b_gbRLWLdO98pw/e/1791874257/1015/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg", Taraqqiyot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/fqgXG-F0LBRSLc7W4KK3fA/e/1791874258/1204/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg", Gold Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/RT5D6zThgEBIwJ_YjenhrQ/e/1791874258/4007/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg", Ruxsor TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/4gF6vgecO2-D2Xncx2i6wA/e/1791874259/4008/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg", Nurafshon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/xFKeI1eyrWSvuWNXzegVZA/e/1791874260/1220/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg", Andijon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/G801B_GDWqG4NKF2PE40aQ/e/1791874260/1457/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg", Fergana MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/omjSL_ptu4Y4KzKIl2Nf_A/e/1791874261/1458/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg", Navoi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/sHYU6J82XaIam118iL7Xqg/e/1791874262/1460/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg", Qashkadaryo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/hC4gJc5r3oVpwwPD55c5wg/e/1791874263/1461/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg", Sirdaryo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/4WXgh1dLjKd_HRJyjHGbOw/e/1791874263/1462/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg", Surxondaryo MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/CO-CEEx6lgohNwkNMjb33w/e/1791874264/1463/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg", Xorazm MTRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/6OFIFYiIQiXTKgIFXI-sgw/e/1791874265/1464/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg", Jizzax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/IQXq4Pmegs32VS51zHsiXg/e/1791874266/1465/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg", Namangan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/_j05cVKkEAT0URbqkS4ZoQ/e/1791874266/1466/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg", Qaraqalpaqstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/XySxqSz64JoQ6-fSnypiaw/e/1791874267/1467/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg", Bukhara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/fOvmjCeUEAkjSafP3XEWBA/e/1791874268/1459/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg", Samarkand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/CdRQPH2ThsphnZ0JulliLw/e/1791874268/1468/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg", Vodiy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/VGuC_V1XhtZLvGuhqHHzQA/e/1791874269/4012/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg", Shifo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/ZY-YYYvD4uuxyVQ36uAgCg/e/1791874270/1469/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg", Mimi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/eLa8mSvN2UniE9t30ISxAA/e/1791874271/1470/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg", TTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/qe9zpvILsPek37laxoVDHA/e/1791874271/1494/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg", TTV Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/BWsYFcIl5AaOnN_ZR_AN4A/e/1791874272/1486/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg", TTV Musiqa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/DmVX3oFQt-AXy-7jqpYIAA/e/1791874273/1485/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg", Jizzax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/AK3IbSZZBUSFhNJCgaeScQ/e/1791874274/1488/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg", ishonch TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/iny3v32ftl2p0WFOLY83Tg/e/1791874274/1489/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg", Ellikqala TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/trswk-WSIf0fWM5UHe6QDg/e/1791874275/1495/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg", 8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/8lrXDNEClDJSkYxLzWjdFg/e/1791874276/1496/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg", Amudaryo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/uuduYA7HL9cRVKsERvUT4w/e/1791874277/1491/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg", Nasaf TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/eX8kKjWSOdJisLCqQBvxNg/e/1791874277/1492/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg", Jaslar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/gBg4RMqgP_9HLRNWTL2JUA/e/1791874278/1490/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg", Muloqot TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/_3tfVGcyAU8IO90R_OGw6w/e/1791874279/1285/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg", MakonTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/pmYv2iPmAA9R9j73C5vIHw/e/1791874280/1497/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg", Farovon Yurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/w6jXbQ3CtTI4AbB2j83oZg/e/1791874280/1301/index.m3u8?ip=45.95.203.252
+#EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg", Denov TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://iptv.itv.uz/hls/live/t/DGoHrZGpRrC5Qt7swo82hw/e/1791874281/1499/index.m3u8?ip=45.95.203.252
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=b4UxzGw90trMTgac74Bg6A&e=2091787882&scheme=https
@@ -3321,6 +3687,52 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=3d
 #EXTINF:-1 group-title="Rutube (VPN)",Unbeaten
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=f00YUTs5B23B5bAxUVzYmw&e=2091787939&scheme=https
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Первый канал
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 1
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия К
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Россия 24
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТНТ
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РЕН ТВ
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", НТВ
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ПЯТЫЙ КАНАЛ
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ОТР
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВЦ
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Спас
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", СТС
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Домашний
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", ТВ3
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Пятница
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)" ,Звезда
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МИР
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", Сибирь 24
+http://95.47.155.244:8001/play/a021
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", РТС - Абакан
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)",7 ТВ HD
+http://95.47.155.244:8001/play/a023
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", КАРУСЕЛЬ
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МузТВ
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="Виктория (VPN 🇷🇺)", МАТЧ
+http://95.47.155.244:8001/play/a003
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",ПЕРВЫЙ КАНАЛ
 http://31.210.208.171:8080/1kanal/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",РЕН ТВ
@@ -3517,6 +3929,146 @@ http://31.210.208.171:8080/khl/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Квант-Телеком (VPN 🇷🇺)",СТАРТ HD
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Первый канал
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Россия 1
+https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Россия 24
+https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Россия К
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Рен ТВ
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",НТВ
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",ТНТ4
+https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Viasat Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Viasat History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Большая Азия
+https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Загородная жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Моя Планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",.sci-fi
+https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",2x2
+https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Amedia 2
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Amedia Hit
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",TV1000
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",TV1000 Русское кино
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",TV1000 Action
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Vip Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",VIP Megahit HD
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Vip Premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Домашний
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Жара
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Живи Активно
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Здоровое ТВ
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Киносат
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Киносвидание
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",КиноХит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Пятница
+https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Русский бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Русский детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Русский роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Красная линия
+https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",ТВ3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Авто 24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",RTД
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Пятый канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",8 Канал
+https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Лад
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",ЛДПР ТВ
+https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",МИР 24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Наша Тема
+https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",ОТР
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Продвижение
+https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",СТС
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",СТС Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Суббота
+https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Точка Отрыва
+https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Точка ТВ
+https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Успех
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Че
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Солнце
+https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Мульт
+https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Бобёр
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Gulli Girl
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Карусель
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Мультиландия
+https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",СТС Kids
+https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",TiJi
+https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Малыш
+https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Шансон ТВ
+https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",RU.TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",Bridge TV
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",ТНТ Music
+https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
+#EXTINF:-1 group-title="Оргтехсервис (VPN 🇷🇺)",МузТВ
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
@@ -3531,6 +4083,188 @@ https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Первый канал
+http://5.188.221.43:8080/play/ort
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",ТНТ
+http://5.188.221.43:8080/play/tnt
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Россия 1
+http://5.188.221.43:8080/play/rossiya_1
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Россия К
+http://5.188.221.43:8080/play/rossia_k
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Россия 24
+http://5.188.221.43:8080/play/rossia_24
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",НТВ
+http://5.188.221.43:8080/play/ntv
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Рен ТВ
+http://5.188.221.43:8080/play/ren-tv
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Моя планета
+http://5.188.221.43:8080/play/moya_planeta
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Пятый канал
+http://5.188.221.43:8080/play/5_kanal
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",ТВЦ
+http://5.188.221.43:8080/play/tv-centr
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",СТС
+http://5.188.221.43:8080/play/sts
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Домашний
+http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",ТВ3
+http://5.188.221.43:8080/play/tv3
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Звезда
+http://5.188.221.43:8080/play/zvezda
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",2x2
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Пятница
+http://5.188.221.43:8080/play/Pyatnica
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Ю
+http://5.188.221.43:8080/play/utv
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Киносат
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",ОТР
+http://5.188.221.43:8080/play/otr
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",РБК
+http://5.188.221.43:8080/play/rbc_spb
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Спас
+http://5.188.221.43:8080/play/spas
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Мир
+http://5.188.221.43:8080/play/mir
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Че
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Солнце
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Карусель
+http://5.188.221.43:8080/play/karusel
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",МузТВ
+http://5.188.221.43:8080/play/muz_tv
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Bridge TV
+http://5.188.221.43:8080/play/bridge-tv
+#EXTINF:-1 group-title="АСАРТА (🇷🇺VPN)",Матч ТВ
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Россия 1
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Россия 24
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",ОТР
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)" ,Моя планета
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Домашний
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",РБК
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Russia Today HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Мир 24
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",ТРО
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/116316122/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Че
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Звезда
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/115312670/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Шансон ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",ТНТ Music
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/603282189/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Муз ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/612327787/playlist.m3u8
+#EXTINF:-1 group-title="Webhost (VPN 🇷🇺)",Мир
+#EXTVLCOPT:http-user-agent=SmartTV
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Первый канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.goodstream.icu/live/210-req_offset_28000000-req_window_0-2k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",НТВ-Мир
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",ТНТ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Россия РТР
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Россия 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Россия К
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/9-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Рен ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",ОТР
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/12-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Победа
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Пятый канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",ТВЦ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",СТС
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Домашний
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Дом Кино
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",ТВ3
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Спас
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/15-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Звезда
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Пятница
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/19-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Мир
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/22-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)" tvg-logo="https://televizor24tochka.ru/logo/100/union.jpg",Юнион
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/27-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)" tvg-logo="https://televizor24tochka.ru/logo/100/tavria.jpg",Таврия
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/24-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Крым 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/28-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)" tvg-logo="https://televizor24tochka.ru/logo/100/zatv.jpg",За!ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)" tvg-logo="https://televizor24tochka.ru/logo/100/lugansk-24.png",Луганск-24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/29-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",Карусель
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",МузТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 group-title="Телевизор 24 (VPN)",МАТЧ ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/6-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/16052025/banners/33418-682782266b049.png", Phoenix TV
 https://karapuztv.catcast.tv/content/33418/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png", TvBoom-ViP
