@@ -1429,18 +1429,12 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png",Vevo Schlager Pop
 https://jmp2.uk/stvp-DEBC21000022L
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20251013T235756SQUARE.png",Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",Vevo Rétro
 https://jmp2.uk/stvp-FRBD1900013CB
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",Vevo Pop
 https://jmp2.uk/stvp-ITBC2100001G9
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20251013T235748SQUARE.png",Vevo Latino
-https://jmp2.uk/stvp-USBC3600015GF
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png",Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20251013T235730SQUARE.png",Vevo '70s
-https://jmp2.uk/stvp-USBD300011KQ
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
@@ -1541,6 +1535,8 @@ https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" ,TRANCE IS STAR RADIO
 https://myradio24.org/tisradio_video.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image91450472363.jpg",30A MUSIC TV
+https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image87899621576.jpg",COMPANY TV HD
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.coolstreaming.us/img/ch/image65240141377.jpg",RADIO ZETA HD TV
@@ -1555,6 +1551,8 @@ http://5.188.159.128:8070/KINOPREMIERA/tracks-v1a1/mono.m3u8
 http://5.188.159.128:8070/kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Селектел (VPN)", Мир 24
 http://5.188.159.128:8070/mir_24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Селектел (VPN)", .red
+http://5.188.159.128:8070/RED/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Селектел (VPN)", Cartoon Network
 http://5.188.159.128:8070/Cartoon_Network/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Селектел (VPN)", Bridge TV Classic
@@ -2813,9 +2811,6 @@ https://mhd116.iptv2022.com/x/yQ4KWLqBpH3_bBXLPeJ-9g,1791830776/streaming/samara
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10444/logo_256.webp", URAL1
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/AQjG271g3bvpaO5Z5gYbfA,1791830776/streaming/ural1/324/1/index.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/31312/logo_256.webp", Восточный экспресс
-#EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
-https://mhd116.iptv2022.com/x/QhhJWavE15F3NEoprLMn-Q,1791830776/streaming/vostok_express/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10445/logo_256_1690286826.png", Канал 12 (Череповец)
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"5.0.8","version_code":"430","sdk":"34","name":"Xiaomi+13+Ultra","device_id":"a7f8e9d1c2b3a4f5","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/g_-P8IhqZPxR2XlmROzzUg,1791830776/streaming/12cherepovec/324/1/index.m3u8
@@ -3731,6 +3726,9 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=6B
 #EXTINF:-1 group-title="Rutube (VPN)",NHL Network [US]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=9562aeYWl57JnszAZLfr-Q&e=2091744476&scheme=https
+#EXTINF:-1 group-title="Rutube (VPN)",TNT SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=l-XAqH0oisQnkKFwu0Bacg&e=2091744476&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=SkZPl8cSQUgIzyRq_O3pbg&e=2091744476&scheme=https
@@ -5142,18 +5140,32 @@ http://kinowalk.hopto.org/kanaldisneyonline_live
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/187?unique=2026-02-20+01%3A57%3A49.533570&access_token=446ac72a-eb3b-4c09-b508-817873730086",Wfliq
 http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/190?unique=2026-02-20+01%3A57%3A49.533570&access_token=eba28ca5-036f-4ab2-ac1d-7509d56d18b6",FoxKids-Remastered
+http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/232?unique=2026-03-03+11%3A23%3A02.745062&access_token=d51627b4-7222-48a3-a991-1111fed44292",Play 4 Fun
 http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/234?unique=2026-03-03+11%3A23%3A02.745062&access_token=784ff379-6d4c-4f30-a16b-2b8cccf7de95",Kycman
+http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/238?unique=2026-03-03+11%3A23%3A02.745062&access_token=6abc5b0d-19e2-4267-a48c-eab799077191",Disney XD
 http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/341?unique=2026-07-28+12%3A05%3A20.347774&access_token=5fa38c99-16ab-4396-af71-4c31e9a03afb",TopMoment TV
+http://kinowalk.hopto.org/topmoment_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/271?unique=2026-04-19+06%3A49%3A49.005553&access_token=bfdd2f15-29dc-4a9f-9fd9-8c88201c1357",MAKARSTRIM
+http://kinowalk.hopto.org/makarstrim_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/392?unique=2026-09-08+09%3A55%3A57.168980&access_token=1ac628d3-d7c5-437b-a558-5ba8612d00c5",RetroMusic
 http://kinowalk.hopto.org/retromus_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/343?unique=2026-07-28+12%3A07%3A52.299856&access_token=9c11dbb4-9944-44c9-ba7b-09ce00c885b4",SANSEY_RU
+http://kinowalk.hopto.org/sansey_ru_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/344?unique=2026-07-28+12%3A08%3A53.376419&access_token=2b06a826-73eb-4ef0-ae60-ce714a327e16",CZM Music
 http://kinowalk.hopto.org/czmmusic_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/345?unique=2026-07-28+12%3A09%3A41.172468&access_token=a72f88b9-f2eb-45d2-ad31-617386c08484",NZTV
 http://kinowalk.hopto.org/nztv_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/360?unique=2026-08-17+19%3A25%3A23.235022&access_token=1b8ca5d4-8179-43aa-88e1-736d7d141bc9",VB_EDH90sandDH90s
+http://kinowalk.hopto.org/vb_edh90sanddh90s_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/347?unique=2026-07-28+12%3A11%3A30.141066&access_token=45e61d27-efa2-4e8c-a01e-05a8cbe39305",OldClip TV
 http://kinowalk.hopto.org/oldclip_live
+#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/348?unique=2026-07-28+12%3A12%3A13.560538&access_token=bc3fd77c-e0f4-470e-95fc-e3fbeb2a310c",bstmsc
+http://kinowalk.hopto.org/bstmsc_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/349?unique=2026-07-28+15%3A30%3A15.709752&access_token=2a4b04bf-4c80-42f3-963d-adad4d6baf08",mp4_collection
 http://kinowalk.hopto.org/mp4_collection_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/351?unique=2026-07-31+08%3A05%3A20.215597&access_token=46199c98-2416-4c56-b58a-888b0929008f",TechnoDanceMusic
@@ -5242,8 +5254,6 @@ http://kinowalk.hopto.org/witch_live
 http://kinowalk.hopto.org/horrortv_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/326?unique=2026-06-26+14%3A51%3A18.003467&access_token=85cfea0b-99c3-4be9-9e19-6e92b9254d71",FilmsSerialsEveryDay
 http://kinowalk.hopto.org/filmsserialseveryday_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/338?unique=2026-07-24+09%3A34%3A26.904562&access_token=f446d74a-33e9-4907-8dda-a7537a6d5c7e",КиноСериалы
-http://kinowalk.hopto.org/zagar_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/374?unique=2026-08-22+19%3A06%3A02.381591&access_token=fc4fd2e8-27db-4c33-9423-68ac534d0adc",KinoБайт-Лучшие фильмы
 http://kinowalk.hopto.org/moviebytes_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/389?unique=2026-08-28+10%3A44%3A27.482546&access_token=6e779780-a06b-4715-b6dd-a607775eda5f",Мир Ехо
@@ -5278,8 +5288,6 @@ http://kinowalk.hopto.org/apricus_live
 http://kinowalk.hopto.org/noir_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/269?unique=2026-04-19+06%3A47%3A36.906330&access_token=7442a0d0-455b-4f89-bf9c-241a8dee7680",priest_kod
 http://kinowalk.hopto.org/priest_kod_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/274?unique=2026-04-19+06%3A54%3A40.063208&access_token=e76a1864-808d-4b32-9fd1-5306c12157fd",Tоny
-http://kinowalk.hopto.org/ordinary_people_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/280?unique=2026-04-19+07%3A04%3A56.540183&access_token=9c4ee976-eec6-45ff-8425-f3500ae72348",Aleksej 54 rus
 http://kinowalk.hopto.org/aleksej26_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/297?unique=2026-05-08+10%3A29%3A16.575395&access_token=a1e3028a-a788-4930-9b55-2c0d36ce90eb",VKTV HD CINEMA
@@ -5294,12 +5302,8 @@ http://kinowalk.hopto.org/rsf_live
 http://kinowalk.hopto.org/katastroff_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/333?unique=2026-07-23+16%3A57%3A08.393206&access_token=6cdc8c7c-09e4-4aaa-a6bf-e0bf95e43703",DVD online
 http://kinowalk.hopto.org/kinostream_rezerv_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/334?unique=2026-07-23+16%3A58%3A59.944876&access_token=1b92d2a1-6bf0-4c84-9e72-19a1816d1b20",BOSSFILM
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/335?unique=2026-07-23+16%3A59%3A50.988372&access_token=8a94c915-f2ff-4758-8ea7-86b19aa2d19c",Kinoshnik_8
 http://kinowalk.hopto.org/kinoshnik_8_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/336?unique=2026-07-24+03%3A29%3A25.080936&access_token=90509364-f26f-450f-8685-2895e1bf56b1",KinoFans
-http://kinowalk.hopto.org/kinofans_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/356?unique=2026-08-05+09%3A51%3A48.306791&access_token=da034480-448f-4938-a77c-ca87ab112bc5",Vitun1988
 http://kinowalk.hopto.org/vitun_88_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/387?unique=2026-08-26+11%3A23%3A12.796389&access_token=c4732575-0377-426e-872b-03e94fbd0a71",МирКино
@@ -5346,8 +5350,6 @@ http://kinowalk.hopto.org/vhs90e_live
 http://kinowalk.hopto.org/filmscope_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/386?unique=2026-08-26+10%3A31%3A11.854244&access_token=2c0b425d-f923-4780-92b2-8bce032e3aee",LEGION TV
 http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/246?unique=2026-03-14+18%3A28%3A20.161244&access_token=3173179f-10e6-47bd-9cc7-5cfa4d5770d4",КиноНонСтоп
-http://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/375?unique=2026-08-22+20%3A43%3A01.987892&access_token=d8de5b19-6457-47c2-a0a5-37881fd407b2",Х-TV
 http://kinowalk.hopto.org/durkalive_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/376?unique=2026-08-22+20%3A52%3A38.421591&access_token=daa8cbb4-cf59-4084-acf6-7d68facfee86",Mr DRAGON live
@@ -5370,8 +5372,6 @@ https://kinowalk.hopto.org/katastroff_live
 https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c",Kinowalk prime
 http://kinowalk.hopto.org/kinowalk_prime_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",VideoVk
-http://kinowalk.hopto.org/videovk_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/218/128x128?unique=2026-02-24%2017:40:47.422997&access_token=f67f6256-bd3e-439b-93fd-6a635aa57fd4",Solo ink
@@ -5382,8 +5382,6 @@ http://kinowalk.hopto.org/lucyvedminaaaa_live
 http://kinowalk.hopto.org/severtv_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://kinowalk.hopto.org/web/image/177/128x128?unique=2026-02-20%2001:57:49.533570&access_token=47c42de7-a71a-4cf9-8390-aa3f92f5aeb5",Кинотека
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="https://static.djagi.com/avatars/djagi.com/1281278.png?r=1560454775",SaN4еZ
-https://kinowalk.hopto.org/san4ez09_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)",3JIou TaTapuH
