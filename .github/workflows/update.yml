@@ -32,7 +32,7 @@ jobs:
               "https://www.dropbox.com/scl/fi/kwuat8byfvr99xpog1rv2/kamer_Surgut.m3u?rlkey=vaufvvhff7gi8o0620gna83t6&st=q18tk120&dl=1"
           ]
           
-          BLACKLIST = ["INFO", "Агронет", "Internet42 LLC", "Инет", "Сириус", "Линкинтел", "Торрент ТВ", "Wink (VPN 🇷🇺)", "Телевизор 24 (VPN)", "Webhost (VPN 🇷🇺)", "Виктория (VPN 🇷🇺)", "АСАРТА (🇷🇺VPN)", "Оргтехсервис (VPN 🇷🇺)", "LLC G&G-Telecom", "Itv.uz (🇺🇿)", "Uplink (VPN)", "Большое ТВ (VPN)", "Цитадель-Крым (VPN)", "Наш Нет 🇺🇦", "С сайтов (VPN)", "С сайтов","Реклама", "Эротика", "18+", "Для взрослых"]
+          BLACKLIST = ["INFO", "Агронет", "Internet42 LLC", "Инет", "Сириус", "Линкинтел", "Торрент ТВ", "Wink", "Телевизор 24 VPN", "Webhost VPN 🇷🇺", "Виктория VPN 🇷🇺", "АСАРТА 🇷🇺VPN", "Оргтехсервис VPN 🇷🇺", "LLC G&G-Telecom", "Itv.uz 🇺🇿", "Uplink VPN", "Большое ТВ (VPN)", "Цитадель-Крым (VPN)", "Наш Нет 🇺🇦", "С сайтов (VPN)", "С сайтов","Реклама", "Эротика", "18+", "Для взрослых"]
           
           print("--- ЗАПУСК СКРИПТА ---")
           out = ["#EXTM3U"]
