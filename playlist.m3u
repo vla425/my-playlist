@@ -356,245 +356,245 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 #EXTINF:-1 group-title="TEST (VPN)",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-23/7f/a0/7fa054982af0926bf046828356cf612f.jpg", 4K UHD релакс
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-424.rtbcdn.ru/hls-vod/rH9dIIFj9dRJhvwW5E7dnQ/1793562605/3554/0x5000c500fad6b32c/11f5bc786dcf44b78243cfe33fb891ae.mp4.m3u8?i=3840x2160_30861
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-31/16/b4/16b466e289f38aedbd6088284fe8def6.jpg", Завораживающие пейзажи мира
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-408.rtbcdn.ru/hls-vod/OZlGfFQ2Ue3YnHZykZaxkA/1793562606/1780/0x5000c500dc5d5c75/0e11c0a92a8b47bcae4bdb5c7fa184f7.mp4.m3u8?i=2560x1440_17757
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-19/4f/f0/4ff007bdfd060d5fa3e1719822a1954a.jpg", Земля без слов 4K
+https://river-4-483.rtbcdn.ru/hls-vod/RNBy_viM23f7mnqDUgn-7g/1794083257/3554/0x5000c500fad6b32c/11f5bc786dcf44b78243cfe33fb891ae.mp4.m3u8?i=3840x2160_30861
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-31/16/b4/16b466e289f38aedbd6088284fe8def6.jpg", Завораживающие пейзажи мира
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-436.rtbcdn.ru/hls-vod/2gDwtws08UDKda4-xY6hbg/1793562606/2520/0x5000039ce869a19d/ca3c0ee693564a7ab67f62467123ddf3.mp4.m3u8?i=3840x2160_20896
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-27/4b/62/4b6266f15229d4e552126e0082dbacec.jpg", 4K красота: закаты леса и мегаполисы
+https://river-4-408.rtbcdn.ru/hls-vod/dM1fz5m3RLsHdqJtEcEFmg/1794083257/1780/0x5000c500dc5d5c75/0e11c0a92a8b47bcae4bdb5c7fa184f7.mp4.m3u8?i=2560x1440_17757
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-09-19/4f/f0/4ff007bdfd060d5fa3e1719822a1954a.jpg", Земля без слов 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-425.rtbcdn.ru/hls-vod/n4b8Jdo81pB6G5xjsHePkw/1793562606/2474/0x5000c500e883a2b6/b6d409e4e0d94fd4aa77677c9299d645.mp4.m3u8?i=2560x1440_18930
+https://river-4-436.rtbcdn.ru/hls-vod/g1EAs5v38k9qYKHnkZhaSA/1794083257/2520/0x5000039ce869a19d/ca3c0ee693564a7ab67f62467123ddf3.mp4.m3u8?i=3840x2160_20896
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-08-27/4b/62/4b6266f15229d4e552126e0082dbacec.jpg", 4K красота: закаты леса и мегаполисы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-425.rtbcdn.ru/hls-vod/0igCLR7KeWHPiMb2YqIJmQ/1794083258/2474/0x5000c500e883a2b6/b6d409e4e0d94fd4aa77677c9299d645.mp4.m3u8?i=2560x1440_18930
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg", Камин
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-421.rtbcdn.ru/hls-vod/TACn_fU9hi8ALHq0BcCZbQ/1793562607/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
+https://river-4-421.rtbcdn.ru/hls-vod/nhOZJ7HrhhMnXEOhBkziXg/1794083258/1899/0x5000c500e511570c/8311ad94048f47808d4e72cc32aa7238.mp4.m3u8?i=3840x2160_6480
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-11/93/1c/931c2e26c7cf0c9cd46994dd45f5fdd0.jpg", 4K Video ULTRA HD 60 FPS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-3-345.rtbcdn.ru/hls-vod/wquprc_5QbyCtIBetmk6aA/1793562607/3310/0x5000c50074475c42/ad4bc68202d64fecb39ff4fdf05f3bfe.mp4.m3u8?i=3840x2160_18272
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/78/e6/78e6107c83f9930a03e48fd0240859a1.jpg", DOLBY VISION OLED Test Video (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-https://river-4-405.rtbcdn.ru/hls-vod/k5Cb5Wp5yRccOavLxJ58lw/1793562607/3260/0x5000c500e9d37d2a/a64c9366549b468689cbd47702889ec8.mp4.m3u8?i=3840x2160_19668
+https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/-p_eC91qdVGOMBL5b1Gccw/1794083258/3310/0x5000c50074475c42/ad4bc68202d64fecb39ff4fdf05f3bfe.mp4.m3u8?i=3840x2160_18272
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/78/e6/78e6107c83f9930a03e48fd0240859a1.jpg", DOLBY VISION OLED Test Video (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/3fQaNVeuKYKn39QyTzJHqw/1794083259/2183/0x5000c500e6f0b871/a64c9366549b468689cbd47702889ec8.mp4.m3u8?i=3840x2160_19668
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/34/f6/34f6507b30ae4a747b11821304e6f1f0.jpg", 4K ULTRA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-422.rtbcdn.ru/hls-vod/FGNMqdQemBgFC6u_TvThcw/1793562608/3380/0x5000c500fa77bca6/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-422.rtbcdn.ru/hls-vod/NsiILjEeoOU9Ev0fT6nNug/1794083259/1796/0x5000c5007443177b/8baceb688d3548c0a29a40f3980bceea.mp4.m3u8?i=3840x2160_24688
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/0d/56/0d56e874bcbea5a47faaf78fbd97c6e1.jpg", COLORFUL WORLD ANIMALS - ANIMALS SOUNDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-442.rtbcdn.ru/hls-vod/yyOZQuAC-YOjZfwYy2sRyw/1793562608/2602/0x5000039ce86865d1/ce40366bbe4e400bad9e69ba72ea21af.mp4.m3u8?i=3840x2160_19145
+https://river-4-442.rtbcdn.ru/hls-vod/YNJmL7CAglVbnbKND-Xx7g/1794083259/2602/0x5000039ce86865d1/ce40366bbe4e400bad9e69ba72ea21af.mp4.m3u8?i=3840x2160_19145
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/6b/dc/6bdc4cfedb4f634e840ac2f5c808022f.jpg", 4K 60fps
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-411.rtbcdn.ru/hls-vod/82-NAxZRMEEuHeLwAm9nhQ/1793562608/1802/0x5000c500db111d72/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160_20911
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/ec/62/ec62a116bb2e1320fbd89fb433eea909.jpg", 4K 60fps COLORFUL WORLD - TRUE CINEMATIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-453.rtbcdn.ru/hls-vod/l0X_Qq7CpDl8CJ-78Bfaow/1793562609/2520/0x5000039ce8697ff9/faab509f8cc443a5a9677823f8d38df9.mp4.m3u8?i=3840x2160_16577
+https://river-4-459.rtbcdn.ru/hls-vod/kJ0w5o8aMFu6Zp4QiFZclw/1794083259/1802/0x5000c500db111d72/fc85c4ba867d442f8c3161a0ff3045fe.mp4.m3u8?i=3840x2160_20911
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/ec/62/ec62a116bb2e1320fbd89fb433eea909.jpg", 4K 60fps COLORFUL WORLD - TRUE CINEMATIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-453.rtbcdn.ru/hls-vod/OhoecN7biH4FOzt9D07g4Q/1794083260/2520/0x5000039ce8697ff9/faab509f8cc443a5a9677823f8d38df9.mp4.m3u8?i=3840x2160_16577
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/d8/14/d8145d9a9bbcd2c426c6ca2b3a5a7b87.jpg", 4K Удивительные животные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-420.rtbcdn.ru/hls-vod/d3QYcod53RlTrJLdp2TXjQ/1793562609/1772/0x5000c500db80bc6a/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160_11616
+https://river-4-420.rtbcdn.ru/hls-vod/4qtOkq21yXtMTa_CVeVLlg/1794083260/3304/0x5000c500e9d36635/80e76c2d86c74a98a6d49b3d3f5abf97.mp4.m3u8?i=3840x2160_11616
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/39/b8/39b8682bf458aa9a88963f0de920b505.jpg", THE MOST BEAUTIFUL 4K 60fps
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-453.rtbcdn.ru/hls-vod/8wqAV3i6N0JP1AR__Fdp4Q/1793562609/2708/0x5000039ce8380695/d1161bd4d16d4ca1b492d440494f597e.mp4.m3u8?i=3840x2160_17738
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-453.rtbcdn.ru/hls-vod/0itznWbXIqYtyhejuAznzA/1794083260/2708/0x5000039ce8380695/d1161bd4d16d4ca1b492d440494f597e.mp4.m3u8?i=3840x2160_17738
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/d0/e6/d0e61eaaf75c5de99cce846c6fc6d9ba.jpg", Razer Sharp 60 fps 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-438.rtbcdn.ru/hls-vod/U5jEe_guw28oddkVxRIQSQ/1793562610/2652/0x5000039ce8703151/0e29af94ffe3489d83504c1f5a3d12fc.mp4.m3u8?i=3840x2160_14068
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-438.rtbcdn.ru/hls-vod/XcYw7ouBRKAQ7rmV_ouUeg/1794083260/2652/0x5000039ce8703151/0e29af94ffe3489d83504c1f5a3d12fc.mp4.m3u8?i=3840x2160_14068
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-09-29/28/29/2829eb8fb8255f87880c22269840dbd4.jpg", 100 000 ЗАХВАТЫВАЮЩИХ ПЕЙЗАЖЕЙ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-425.rtbcdn.ru/hls-vod/2CXRnHNySLKeXnmXBGOPbQ/1793562610/1897/0x5000c500e4a15fac/15684d4035e5453dac85c2650f8e6dbd.mp4.m3u8?i=3840x2160_32513
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-437.rtbcdn.ru/hls-vod/edR1JS-YivBeu9a7cefYFA/1794083260/1897/0x5000c500e4a15fac/15684d4035e5453dac85c2650f8e6dbd.mp4.m3u8?i=3840x2160_32513
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/71/55/7155f0d06e9a06e5fa2201512ef5a21b.jpg", World of Animals 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-424.rtbcdn.ru/hls-vod/gBC-UAkcmq2O_KmjtrEqqw/1793562610/1780/0x5000c500c3527c11/cad2b76eaaa84797b8543b7cae4ac2f1.mp4.m3u8?i=3840x2160_26198
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-442.rtbcdn.ru/hls-vod/4e26Tf8udYy7PUdFLkUpAA/1794083261/1780/0x5000c500c3527c11/cad2b76eaaa84797b8543b7cae4ac2f1.mp4.m3u8?i=3840x2160_26198
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/61/19/6119d30ed9bd99327dfabed39633b97e.jpg", РАЙСКИЕ МЕСТА НА ЗЕМЛЕ 4K 60fps
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-444.rtbcdn.ru/hls-vod/3j1CciQSu4f8O6u7TfGw0w/1793562611/1778/0x5000c500c8ca1f99/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg", 4K HDR 60FPS Dolby Vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-448.rtbcdn.ru/hls-vod/b9ZcYjnjnK59ohBFRx4wPA/1793562611/1844/0x5000cca2a10062b4/2692352188cf4c0b98884a884aadbd50.mp4.m3u8?i=3840x2160_20589
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/0b/90/0b904394c6e39bb08155fe4e5dfbc868.jpg", Высококачественное видео
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-454.rtbcdn.ru/hls-vod/lAiDWX_zNhFGs2LreJlQuA/1793562611/3314/0x5000c500e9c56efe/6f56967b122f447096b17b390a342bb9.mp4.m3u8?i=3840x2160_22125
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg", PARADISE ON EARTH Best Travel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-425.rtbcdn.ru/hls-vod/QMEyJ_G6kLZ00ocRNkH53g/1793562612/2508/0x5000039ce8686d6d/9a66fdbba8824627bbef6ad970ea7274.mp4.m3u8?i=2560x1440_17635
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/fe/10/fe10124b6dd01bbd556c4c9e0d096e8b.jpg", FLYING OVER SEYCHELLES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-459.rtbcdn.ru/hls-vod/1gasZT-j5fNlb7njO2XNNQ/1793562612/2706/0x5000039ce8635efd/c648587aa98147a3a5f9d4f98d8592e0.mp4.m3u8?i=3840x2160_19507
+https://river-4-444.rtbcdn.ru/hls-vod/elnQtuGmLE8-GXrHMqbj_Q/1794083261/3270/0x5000c500744761a5/ce1ba50a90b24925a689493496d705d4.mp4.m3u8?i=3840x2160_12559
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/d9/e3/d9e35dc3b656decefb87bed06d3cc00f.jpg", 4K HDR 60FPS Dolby Vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-448.rtbcdn.ru/hls-vod/-kQj65eNxjymFc0T4YKlWQ/1794083261/2722/0x5000039ce8339e5d/2692352188cf4c0b98884a884aadbd50.mp4.m3u8?i=3840x2160_20589
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/0b/90/0b904394c6e39bb08155fe4e5dfbc868.jpg", Высококачественное видео
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-454.rtbcdn.ru/hls-vod/13v-AaAzmaFcq-zARZfmRw/1794083262/3314/0x5000c500e9c56efe/6f56967b122f447096b17b390a342bb9.mp4.m3u8?i=3840x2160_22125
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/73/f5/73f5b3cfdc98158045f76038a018b75b.jpg", PARADISE ON EARTH Best Travel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-425.rtbcdn.ru/hls-vod/QdLhi9-yQZdlfglTmP26sQ/1794083262/2508/0x5000039ce8686d6d/9a66fdbba8824627bbef6ad970ea7274.mp4.m3u8?i=2560x1440_17635
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/fe/10/fe10124b6dd01bbd556c4c9e0d096e8b.jpg", FLYING OVER SEYCHELLES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
+https://river-4-459.rtbcdn.ru/hls-vod/VTZK57NF1IEyRJZ1cfqhlg/1794083262/2706/0x5000039ce8635efd/c648587aa98147a3a5f9d4f98d8592e0.mp4.m3u8?i=3840x2160_19507
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/04/bd/04bd807775ac8cef2b6b91c8563efc3a.jpg", Невероятная Красота 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-6-604.rtbcdn.ru/hls-vod/MPs3FV_d_QdZJIvU2NijDw/1793562613/2676/0x5000039ce8401a35/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160_17089
+https://river-6-604.rtbcdn.ru/hls-vod/hSeHe-QW0xlleAAWtE5_9g/1794083262/2676/0x5000039ce8401a35/556a1a55f7d541ac9aecbe8f1378f025.mp4.m3u8?i=3840x2160_17089
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/06/6b/066be4b119e215d35bdbd80894090b2b.jpg", Птицы 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-437.rtbcdn.ru/hls-vod/DffsfU39y4_3TX2OJmSN-Q/1793562613/1780/0x5000c500c8e66220/9b3049d858f744bb9212feff045bc341.mp4.m3u8?i=3840x2160_24383
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/08/d0/08d0485c5371f760f1f46986054dde80.jpg", Breathtaking landscape 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-484.rtbcdn.ru/hls-vod/iMTThka1TGV8GZsyC3lI_Q/1793562613/3350/0x5000c500e9ee0171/abada6c634ff488db2e1b0dd9a2b9b3e.mp4.m3u8?i=3840x2160_24551
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/10/17/1017237de47e769c39708710bb89d188.jpg", Mind Blowing 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-472.rtbcdn.ru/hls-vod/dGAr_SzO2QFJ5HBO4K0ZjQ/1793562614/1774/0x5000c500dc5d11c3/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160_22813
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-09-29/1e/99/1e99ee863752854d4a29ee44a1dc2a16.jpg", Швейцария Железная дорога Кур–Ароза
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-472.rtbcdn.ru/hls-vod/8nWmzXV_FUlZ-d8mdYHcPg/1793562615/2470/0x5000c500e8840cd6/e236a89398014141b0076380d02f05a4.mp4.m3u8?i=2560x1440_46799
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/66/ab/66ab4b28270aef4dcc7fec431ab8bb38.jpg", Каттегат в 4К С Музыкой Викингов
+https://river-4-437.rtbcdn.ru/hls-vod/Ii0vTTOYZ5gR5Ycj5bQkxQ/1794083262/1780/0x5000c500c8e66220/9b3049d858f744bb9212feff045bc341.mp4.m3u8?i=3840x2160_24383
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/08/d0/08d0485c5371f760f1f46986054dde80.jpg", Breathtaking landscape 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-484.rtbcdn.ru/hls-vod/22bZAlwlvG-fC0T49huQ6w/1794083263/1885/0x5000c500e53be6fc/abada6c634ff488db2e1b0dd9a2b9b3e.mp4.m3u8?i=3840x2160_24551
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/10/17/1017237de47e769c39708710bb89d188.jpg", Mind Blowing 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-456.rtbcdn.ru/hls-vod/Ub1cl1BuUc2xzuJcdxct0A/1793562616/3298/0x5000c500e9ce2371/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160_16049
+https://river-4-472.rtbcdn.ru/hls-vod/KF7HQKNJDLF3Epb8XR62Yg/1794083263/1774/0x5000c500dc5d11c3/f677cdd74de344c7ad26a748f42e912f.mp4.m3u8?i=3840x2160_22813
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-09-29/1e/99/1e99ee863752854d4a29ee44a1dc2a16.jpg", Швейцария Железная дорога Кур–Ароза
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-473.rtbcdn.ru/hls-vod/5royGd3pjrGNSsHvJONlcg/1794083263/2470/0x5000c500e8840cd6/e236a89398014141b0076380d02f05a4.mp4.m3u8?i=2560x1440_46799
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/66/ab/66ab4b28270aef4dcc7fec431ab8bb38.jpg", Каттегат в 4К С Музыкой Викингов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-456.rtbcdn.ru/hls-vod/oBVNepgxmffgLh4ipLPBaQ/1794083263/3298/0x5000c500e9ce2371/2b992c6cdb9d4df1ab6935813e352b05.mp4.m3u8?i=3840x2160_16049
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/d0/db/d0db857627ef06a159f2f42d90476a73.jpg", Коста Рика 4K 60fps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-428.rtbcdn.ru/hls-vod/ucaIXgbOw78wAS8ceCO0Tg/1793562617/1865/0x5000c500e537c2c8/ba01d890ec944bdcb082cffe9bbdf1b2.mp4.m3u8?i=3840x2160_27042
+https://river-4-428.rtbcdn.ru/hls-vod/VhIoBMnwVVReEhKbstr6zA/1794083264/3372/0x5000c500fa775ff7/ba01d890ec944bdcb082cffe9bbdf1b2.mp4.m3u8?i=3840x2160_27042
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/31/21/312151af4084655231da8e85a78d379a.jpg", Пакистан в 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-434.rtbcdn.ru/hls-vod/p8HwJ99jkXIft_wp6V0hcA/1793562617/1891/0x5000c500e539c97b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160_16056
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-434.rtbcdn.ru/hls-vod/HJhp1EDarJmhH5Ooh2v4cQ/1794083264/1891/0x5000c500e539c97b/d2deee2b1e68476daa2645ef36da01db.mp4.m3u8?i=3840x2160_16056
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/7d/e0/7de0c641a0e47a2fc645444ba8c1b114.jpg", Аляска 4K 60fps
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-473.rtbcdn.ru/hls-vod/PWa2xxL5qssh6uI-vtjM0g/1793562617/1889/0x5000c500e538249f/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160_26582
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg", Антарктика В 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-427.rtbcdn.ru/hls-vod/YIY_k6mvfd-sf15l2YV_2w/1793562619/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg", Греция 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-434.rtbcdn.ru/hls-vod/67WOHyGJ8nj4P7ALP3Lyvg/1793562619/1776/0x5000c500c750a96f/47ee63aaebd54d10aa7f9b7c0dadfe83.mp4.m3u8?i=3840x2160_10503
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/19/d5/19d547d9f665a02f80f31cacb2238e7c.jpg", Италия 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-473.rtbcdn.ru/hls-vod/qYDyQ8yWNWkZlnTyRVSx7Q/1793562619/2564/0x5000039ce8638861/c8aafbc7b0b34bebb6650b10f718c8db.mp4.m3u8?i=3840x2160_35524
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/a3/3a/a33a36b9be68bc6b4ad150808171b434.jpg", Украина 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-479.rtbcdn.ru/hls-vod/AKoDexS_cWqEunHNon-Z9w/1793562619/1889/0x5000c500e4dc0b83/08414c457fec4d4a9cb5a38cacd30aee.mp4.m3u8?i=3840x2160_19592
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-06/9d/4d/9d4db32c1fccd887099050905e6ca7a2.jpg", Ирландия 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-406.rtbcdn.ru/hls-vod/izeBCIHMLH83fzWcIKwHjQ/1793562620/3306/0x5000c50074476884/d0a3235fff734ba2952b3bcdff9941be.mp4.m3u8?i=3840x2160_17488
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/89/8c/898c76f0adc25c6f485396fbc5fa22fa.jpg", Казахстан 4K
+https://river-4-434.rtbcdn.ru/hls-vod/fEH5kV2sri5BK4OPLulBlQ/1794083264/1889/0x5000c500e538249f/4b2f01657cbb48109f10291e30b69f10.mp4.m3u8?i=3840x2160_26582
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/0f/c5/0fc5980685a33c9259252135090c2a7a.jpg", Антарктика В 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-427.rtbcdn.ru/hls-vod/K2wxi0B_T1K7bSXbqYD0SQ/1794083264/1770/0x5000c500c8b71440/43d466c1d81b44f895cad3ca5ea028e9.mp4.m3u8?i=3840x2160_10515
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/32/0b/320b1080d4ee71d56a021c5d39dc4fd0.jpg", Греция 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
+https://river-4-434.rtbcdn.ru/hls-vod/Tsui5LDg1j4sN8f1v-H2bg/1794083264/1776/0x5000c500c750a96f/47ee63aaebd54d10aa7f9b7c0dadfe83.mp4.m3u8?i=3840x2160_10503
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/19/d5/19d547d9f665a02f80f31cacb2238e7c.jpg", Италия 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-473.rtbcdn.ru/hls-vod/90DTL2aeCEzrSyYiozJtyg/1794083265/2564/0x5000039ce8638861/c8aafbc7b0b34bebb6650b10f718c8db.mp4.m3u8?i=3840x2160_35524
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/a3/3a/a33a36b9be68bc6b4ad150808171b434.jpg", Украина 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-456.rtbcdn.ru/hls-vod/dXfmEpHcCauk4oRbRX_2Eg/1793562620/3310/0x5000c500e9be79f9/1286e9b3e6064e11a141cb8d5289ce62.mp4.m3u8?i=3840x2160_21172
+https://river-4-446.rtbcdn.ru/hls-vod/rI3w3B46Byv1vVy3lCB8RA/1794083265/1889/0x5000c500e4dc0b83/08414c457fec4d4a9cb5a38cacd30aee.mp4.m3u8?i=3840x2160_19592
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-06/9d/4d/9d4db32c1fccd887099050905e6ca7a2.jpg", Ирландия 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-433.rtbcdn.ru/hls-vod/rc9bsQnXL2A5hqpExvOQ3g/1794083265/3306/0x5000c50074476884/d0a3235fff734ba2952b3bcdff9941be.mp4.m3u8?i=3840x2160_17488
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/89/8c/898c76f0adc25c6f485396fbc5fa22fa.jpg", Казахстан 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-456.rtbcdn.ru/hls-vod/UwkZ9Phj9cAkPlU_yn0nNQ/1794083266/3310/0x5000c500e9be79f9/1286e9b3e6064e11a141cb8d5289ce62.mp4.m3u8?i=3840x2160_21172
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-01-15/6e/b5/6eb5c51090f81936e9b71f491e77cf2a.jpg", Камчатка 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-434.rtbcdn.ru/hls-vod/y-zj9Civ81nl2layhC8TpA/1793562621/2464/0x5000c500e883f3df/afaaf25369594e2984734f9089fccfb3.mp4.m3u8?i=3840x2160_16810
+https://river-4-407.rtbcdn.ru/hls-vod/YNPFHFJVK48OBgjZciOS5g/1794083266/2464/0x5000c500e883f3df/afaaf25369594e2984734f9089fccfb3.mp4.m3u8?i=3840x2160_16810
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2d/8a/2d8a8c907dbb73073599001bc8c9b4d8.jpg", Венгрия 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-450.rtbcdn.ru/hls-vod/-r86sYxtmJ26M6Gh6RGr6w/1793562621/2610/0x5000039ce86a07dd/6a4ea26149e747f4a80ddf49368ebbdd.mp4.m3u8?i=3840x2160_25368
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-475.rtbcdn.ru/hls-vod/h5vxLRkqqfxVpvWfE7fC7w/1794083266/2610/0x5000039ce86a07dd/6a4ea26149e747f4a80ddf49368ebbdd.mp4.m3u8?i=3840x2160_25368
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-29/ae/c0/aec0da30c96e0bd6eb5ec073e7a2f036.jpg", Чехия 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-452.rtbcdn.ru/hls-vod/Y5yW8STuUiNxY8HDQUu1jQ/1793562622/2652/0x5000039ce869848d/3588f69c0914469bbb3caeb52dea8be9.mp4.m3u8?i=3840x2160_20107
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-29/1e/8c/1e8cc4315000c9ae63907a6d01350f77.jpg", Румыния 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-https://river-4-436.rtbcdn.ru/hls-vod/IU2DVOOSw1jDKM5CLV3MyA/1793562622/2708/0x5000039ce83804ad/a8ccfe5450874c30a42ecfc0c4268e81.mp4.m3u8?i=3840x2160_18063
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-01-12/fe/a6/fea6b41f1c8ad248d14982a661552d77.jpg", Грузия 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-446.rtbcdn.ru/hls-vod/n14BKJZ7_kZp5dPwOe188g/1793562623/2508/0x5000039ce8635539/a30d636080c5491aa3422713c2bf4340.mp4.m3u8?i=3840x2160_17848
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-29/90/e1/90e191cb901b8961de586066649cd350.jpg", Фарерские острова 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-428.rtbcdn.ru/hls-vod/pNSVElvsCAtHP61__KrlRQ/1793562623/2652/0x5000039ce869a575/b34267622ec64886ab7e78784ea04111.mp4.m3u8?i=3840x2160_17447
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-28/fb/74/fb744c28b33c79356992f1786aaf2ea7.jpg", Сардиния 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-483.rtbcdn.ru/hls-vod/H1PuGVSrQ-sFju7QhD8ycg/1793562623/2213/0x5000c5007446881b/5324006e624c4589bc28514b1a15dcbb.mp4.m3u8?i=3840x2160_18188
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-28/a4/57/a457ea5ab440ca9e7ce055a775fee5f5.jpg", Арабские Эмираты 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-481.rtbcdn.ru/hls-vod/9DEJ_lsBPrAUQRHVPKgJ8g/1793562624/2644/0x5000039ce838cfa5/35bbc97c1fe748ad802c0535daf1ed39.mp4.m3u8?i=3840x2160_12948
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/59/2b/592b894cccb625aabb60742d9a9b3113.jpg", Фиджи 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-451.rtbcdn.ru/hls-vod/0fvoeRaF3Fy3AKuyuIISQw/1793562624/2652/0x5000039ce869a495/943af4170c804868a4d741eb4a3ffd01.mp4.m3u8?i=3840x2160_18902
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-24/1a/fa/1afaefabdaa0b6180082adac8e6e2efb.jpg", Австралия 4K
+https://river-4-452.rtbcdn.ru/hls-vod/6oarUEMVEsUwUgiKXUzO5A/1794083267/2652/0x5000039ce869848d/3588f69c0914469bbb3caeb52dea8be9.mp4.m3u8?i=3840x2160_20107
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-29/1e/8c/1e8cc4315000c9ae63907a6d01350f77.jpg", Румыния 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-473.rtbcdn.ru/hls-vod/3QpGh-wv-OmAX-LNGJHZlg/1793562625/2604/0x5000039ce868e555/fd00b5fa081f43589134c7b1a96faa03.mp4.m3u8?i=3840x2160_16689
+https://river-4-436.rtbcdn.ru/hls-vod/sddpiirPtNgik6HqPj1ReQ/1794083268/2708/0x5000039ce83804ad/a8ccfe5450874c30a42ecfc0c4268e81.mp4.m3u8?i=3840x2160_18063
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-01-12/fe/a6/fea6b41f1c8ad248d14982a661552d77.jpg", Грузия 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-446.rtbcdn.ru/hls-vod/QhpLTqafbZEy4PzT6lHs2w/1794083267/2508/0x5000039ce8635539/a30d636080c5491aa3422713c2bf4340.mp4.m3u8?i=3840x2160_17848
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-29/90/e1/90e191cb901b8961de586066649cd350.jpg", Фарерские острова 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-481.rtbcdn.ru/hls-vod/ivl-LKSzkb48Tqf5kJ3kJw/1794083268/2652/0x5000039ce869a575/b34267622ec64886ab7e78784ea04111.mp4.m3u8?i=3840x2160_17447
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-28/fb/74/fb744c28b33c79356992f1786aaf2ea7.jpg", Сардиния 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-483.rtbcdn.ru/hls-vod/GgdqWAtYWzFPMi5xkV3_sg/1794083272/2213/0x5000c5007446881b/5324006e624c4589bc28514b1a15dcbb.mp4.m3u8?i=3840x2160_18188
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-28/a4/57/a457ea5ab440ca9e7ce055a775fee5f5.jpg", Арабские Эмираты 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-481.rtbcdn.ru/hls-vod/2Mfnl2Fe_KpdjxgTDF2LVQ/1794083269/2644/0x5000039ce838cfa5/35bbc97c1fe748ad802c0535daf1ed39.mp4.m3u8?i=3840x2160_12948
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/59/2b/592b894cccb625aabb60742d9a9b3113.jpg", Фиджи 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-451.rtbcdn.ru/hls-vod/IlPi-ZN1SgTVJN1LObvIQA/1794083272/2652/0x5000039ce869a495/943af4170c804868a4d741eb4a3ffd01.mp4.m3u8?i=3840x2160_18902
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-24/1a/fa/1afaefabdaa0b6180082adac8e6e2efb.jpg", Австралия 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-473.rtbcdn.ru/hls-vod/wnUypdcUS4SdwJN3CDA0pw/1794083273/2604/0x5000039ce868e555/fd00b5fa081f43589134c7b1a96faa03.mp4.m3u8?i=3840x2160_16689
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/a7/a6/a7a6d6f4175f21e601515ee4a6cfcabf.jpg", Чили: Остров Пасхи 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-458.rtbcdn.ru/hls-vod/prLHfHGQfpQOwINP_evD0Q/1793562625/3334/0x5000c500e9dac121/64184e96d67f44c9b81953b97cdd1411.mp4.m3u8?i=3840x2160_21114
+https://river-4-458.rtbcdn.ru/hls-vod/YXzB457mQ4mJNurYt9xYOQ/1794083273/3334/0x5000c500e9dac121/64184e96d67f44c9b81953b97cdd1411.mp4.m3u8?i=3840x2160_21114
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/f2/0b/f20b8f54d768f10587229cd15d6bebc4.jpg", Мексика 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-477.rtbcdn.ru/hls-vod/GzIzUlMkHq-rwJfjY156Hw/1793562626/2219/0x5000c5007446b335/db1a2f0db22346818f392e3da16ab8dd.mp4.m3u8?i=3840x2160_16741
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
+https://river-4-477.rtbcdn.ru/hls-vod/_P35mteeI_jVy5_KjMjjkg/1794083273/2219/0x5000c5007446b335/db1a2f0db22346818f392e3da16ab8dd.mp4.m3u8?i=3840x2160_16741
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-24/ea/71/ea714d2edce2ec512ec1f9625241b333.jpg", Египет 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
-https://river-6-605.rtbcdn.ru/hls-vod/U8Bgbx7OzRoEtJEW_4dvrA/1793562626/2626/0x5000039ce868ebe9/e0fb7a3a4e194e77b0d5c66ae1cfc363.mp4.m3u8?i=3840x2160_15659
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-6-601.rtbcdn.ru/hls-vod/lckB4MEDmE9nZd-tYBOJzA/1794083273/2626/0x5000039ce868ebe9/e0fb7a3a4e194e77b0d5c66ae1cfc363.mp4.m3u8?i=3840x2160_15659
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-24/af/3d/af3d36495c374850f3c4ec5794985847.jpg", Греция 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-434.rtbcdn.ru/hls-vod/21OIC665a-YA7ugGLt9HJw/1793562626/2604/0x5000039ce863fb05/de0b9c989c4647a9ae665eb02c797dd8.mp4.m3u8?i=3840x2160_15900
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-434.rtbcdn.ru/hls-vod/blNMKulSosIoLFcZT1EDNQ/1794083274/2604/0x5000039ce863fb05/de0b9c989c4647a9ae665eb02c797dd8.mp4.m3u8?i=3840x2160_15900
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-02-04/08/3f/083fbbc3700afb477d888c2c542f67b1.jpg", Гватемала 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-6-604.rtbcdn.ru/hls-vod/fb_pK0f8WN0mGtpj_ZCMtw/1793562628/3578/0x5000c500e9d35e2c/b1ef0dec64764a28b2eda1a9891ae6cd.mp4.m3u8?i=3840x2160_15565
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-25/58/f5/58f5e23c31bd842373baf0acef107819.jpg", Молдова 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-475.rtbcdn.ru/hls-vod/F-6WeNbnni1LVNCPBUic2A/1793562627/3308/0x5000c500e9d37d9c/1de0eaa62f294d15a84e057c4d3ab77d.mp4.m3u8?i=3840x2160_15962
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/3c/e3/3ce3c4358d71c935124cac5d2e11e79a.jpg", Природа Аргентины 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-442.rtbcdn.ru/hls-vod/As7Rvn1l4sMmFUv0Msi9qg/1793562628/1780/0x5000c500db164266/c52a030a1c2044ffa66f78445eefa6ce.mp4.m3u8?i=3840x2160_21330
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/4e/15/4e15955f338e9fcfd1167c9feed9c052.jpg", Гималаи 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-424.rtbcdn.ru/hls-vod/CrHzI0GrOhJgK8Hs6brFKg/1793562628/3302/0x5000c500e9ebb99a/9d841ed1950a49368c4420b771e2cdb3.mp4.m3u8?i=3840x2160_16227
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-16/87/de/87dec66bcd8f25305859854a2ea48ebe.jpg", Москва 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-451.rtbcdn.ru/hls-vod/GvK5TcgrVj7z8V3LdgNmtw/1793562628/1780/0x5000c500c923ddc6/cf49bab452b0423e94330844a86f95d6.mp4.m3u8?i=3840x2024_25835
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-09/86/9f/869f4ee057924413cf40143f4aefd766.jpg", Ливия 4K
+https://river-6-606.rtbcdn.ru/hls-vod/LJRUuonvj6e_D85B40U8eA/1794083274/3578/0x5000c500e9d35e2c/b1ef0dec64764a28b2eda1a9891ae6cd.mp4.m3u8?i=3840x2160_15565
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-25/58/f5/58f5e23c31bd842373baf0acef107819.jpg", Молдова 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-6-604.rtbcdn.ru/hls-vod/c7T-t6iczRzVXj07orXezQ/1793562629/3498/0x5000c500e9cf14d9/4f0aedf12adf48afad30bcc0ae1fbccc.mp4.m3u8?i=3840x2160_10620
+https://river-4-475.rtbcdn.ru/hls-vod/BYXa67XsmLNwKFD0qaI7YQ/1794083274/3308/0x5000c500e9d37d9c/1de0eaa62f294d15a84e057c4d3ab77d.mp4.m3u8?i=3840x2160_15962
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/3c/e3/3ce3c4358d71c935124cac5d2e11e79a.jpg", Природа Аргентины 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-442.rtbcdn.ru/hls-vod/UMtl57JqlW-SncuxXL0xeA/1794083275/1780/0x5000c500db164266/c52a030a1c2044ffa66f78445eefa6ce.mp4.m3u8?i=3840x2160_21330
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/4e/15/4e15955f338e9fcfd1167c9feed9c052.jpg", Гималаи 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
+https://river-4-410.rtbcdn.ru/hls-vod/hDK1jaHtoEeKz3drbVcVsQ/1794083275/3302/0x5000c500e9ebb99a/9d841ed1950a49368c4420b771e2cdb3.mp4.m3u8?i=3840x2160_16227
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-16/87/de/87dec66bcd8f25305859854a2ea48ebe.jpg", Москва 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
+https://river-4-435.rtbcdn.ru/hls-vod/p5kOK6vsxyMMB_EvVGUUlg/1794083275/1780/0x5000c500c923ddc6/cf49bab452b0423e94330844a86f95d6.mp4.m3u8?i=3840x2024_25835
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-09/86/9f/869f4ee057924413cf40143f4aefd766.jpg", Ливия 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-6-604.rtbcdn.ru/hls-vod/Etx1CBUYT3PZubAZXStx1g/1794083276/3498/0x5000c500e9cf14d9/4f0aedf12adf48afad30bcc0ae1fbccc.mp4.m3u8?i=3840x2160_10620
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-02-09/c3/4e/c34e7e095b3c96b405148a6686b86edb.jpg", Киргизстан 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-435.rtbcdn.ru/hls-vod/rtciu0MLAY9ZxQialAIThQ/1793562629/3306/0x5000c5007447610a/17236c39c63241ada18adb7a57bb6622.mp4.m3u8?i=3840x2160_17619
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-435.rtbcdn.ru/hls-vod/FPL3fd5-laPIms9697SMyA/1794083276/3306/0x5000c5007447610a/17236c39c63241ada18adb7a57bb6622.mp4.m3u8?i=3840x2160_17619
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-01-02/a0/35/a0357779a326f76f03311d5064a752bf.jpg", Узбекистан 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-6-602.rtbcdn.ru/hls-vod/rciWw2963L-QYRFeNexapA/1793562629/3510/0x5000c500fa915f5c/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
+https://river-6-606.rtbcdn.ru/hls-vod/XxDgcqasnCi1XHKIBwDrPg/1794083276/3510/0x5000c500fa915f5c/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2025-02-26/eb/db/ebdb900076c03be283ae82873d52c589.jpg", Эквадор 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-475.rtbcdn.ru/hls-vod/dYdwtIoY2DiytqCVb6EnPw/1793562630/3546/0x5000c500faed2739/c13a85d615f641e39510e04883a12555.mp4.m3u8?i=3840x2160_14857
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-475.rtbcdn.ru/hls-vod/fgBEXLhnk__pf2-vF7VueQ/1794083276/3546/0x5000c500faed2739/c13a85d615f641e39510e04883a12555.mp4.m3u8?i=3840x2160_14857
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/87/0e/870e1a12792d3f8cf8aa189898c0e482.jpg", Турция в 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-455.rtbcdn.ru/hls-vod/h7YHKNlzBoTh0VqVk8GBcw/1793562630/1848/0x5000cca2842313e4/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160_25103
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-455.rtbcdn.ru/hls-vod/ckB5CvCoN5uIF4cb-lNwHA/1794083276/1848/0x5000cca2842313e4/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160_25103
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/74/6d/746d5d1ba9c1c3a1259d166b73dec7a9.jpg", Вьетнам в 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-3-342.rtbcdn.ru/hls-vod/ga3Kp8R1gfV2UxERoiraIA/1793562630/2542/0x5000039ce8383155/dcb94c9494274ecb81255e3756514e78.mp4.m3u8?i=3840x2160_36518
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/15/53/15532340cc15ab3f3bf363f040896708.jpg", Индия в 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-438.rtbcdn.ru/hls-vod/m2eIuhfsoONBbJJzE05C5w/1793562630/2474/0x5000c500e883f57f/1967303e52a0455c9cc392e2ae1b0f0e.mp4.m3u8?i=3840x2160_17069
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/b3/3d/b33db6df61ad9fc77e54f98f03d8fc9d.jpg", Манила в 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-418.rtbcdn.ru/hls-vod/Kc593L42yiM51Eb-wGEQlw/1793562631/3316/0x5000c500e9cfc31c/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/a7/13/a7139249b7fe0bf2b2ddffbbaba6a913.jpg", Болгария 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-419.rtbcdn.ru/hls-vod/FAkz0uAPwV5qtJrB6R1v7Q/1793562631/1895/0x5000c500e53979ec/b527c6a1a6084c1ba9202bb8b607f90d.mp4.m3u8?i=3840x2160_25379
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/5a/89/5a894e03615d859ca15497ca636e79e2.jpg", Перу 4K 60fps
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-441.rtbcdn.ru/hls-vod/YpwusuE5HEAivh-ht847GQ/1793562631/1893/0x5000c500e539c5d1/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160_26231
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/ec/6e/ec6eb7f0891bcf8f4ad9699fcfbdb205.jpg", Кения В 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-411.rtbcdn.ru/hls-vod/0ErKSU4IyEIlNFHwua7iSw/1793562632/2658/0x5000039ce8401b5d/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/bf/63/bf63ccc22cd2bacdefb8b27571dff50b.jpg", Бора-Бора в 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-455.rtbcdn.ru/hls-vod/hb3Weh4kT1HIHFk2dYV_uQ/1793562632/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160_17254
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/29/31/29318086e00da1c865da25131f866d4f.jpg", Карибы в 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15
-https://river-4-418.rtbcdn.ru/hls-vod/DTwwoI-1pnZxxE8_JczGaQ/1793562632/1772/0x5000c500d6d78c87/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160_11480
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/51/f3/51f330a0fe798c746cda323431220662.jpg", Намибия в 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-472.rtbcdn.ru/hls-vod/Q0STPcgGV4_f6RVlLYqBLA/1793562633/2462/0x5000c500e88261c4/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160_11828
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg", Китай В 4К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-418.rtbcdn.ru/hls-vod/-6HoPU4Jj3ugF4pvAtcfEA/1793562633/1899/0x5000c500e51127eb/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg", Мальдивы в 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-432.rtbcdn.ru/hls-vod/3Cjn-5FlFA57CztJh_6hCQ/1793562633/1848/0x5000cca28420b4e4/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/5e/5a/5e5a9cb6a10424f8ede9adc9848680c8.jpg", Дубай в 4K
+https://river-4-437.rtbcdn.ru/hls-vod/z2tQZ8GxrgpGK_gukQxJ_g/1794083277/2654/0x5000039ce82b7c05/dcb94c9494274ecb81255e3756514e78.mp4.m3u8?i=3840x2160_36518
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2024-11-26/15/53/15532340cc15ab3f3bf363f040896708.jpg", Индия в 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-438.rtbcdn.ru/hls-vod/CmXtfn4D0Lt0GFbVtJ0wFA/1794083277/2474/0x5000c500e883f57f/1967303e52a0455c9cc392e2ae1b0f0e.mp4.m3u8?i=3840x2160_17069
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/b3/3d/b33db6df61ad9fc77e54f98f03d8fc9d.jpg", Манила в 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-451.rtbcdn.ru/hls-vod/IZKTsk_OMJrYjjMo-fwN9g/1793562634/2462/0x5000c500e8828a7e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160_23768
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/14/98/14988617a7aed21381889ab5ceb7b1d9.jpg", Германия в 4K
+https://river-4-418.rtbcdn.ru/hls-vod/EzYotTAEngEmZYyMdI_fTg/1794083277/1776/0x5000c500d6d906ed/c541fdacbbda415fb50a782ad5d1fcf9.mp4.m3u8?i=3840x2160_20784
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/a7/13/a7139249b7fe0bf2b2ddffbbaba6a913.jpg", Болгария 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
-https://river-4-449.rtbcdn.ru/hls-vod/sCi8FgkQbHv17_o3Tv3Suw/1793562634/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
+https://river-4-419.rtbcdn.ru/hls-vod/dsAsto3qGJ1enGzdIkaaCw/1794083277/1895/0x5000c500e53979ec/b527c6a1a6084c1ba9202bb8b607f90d.mp4.m3u8?i=3840x2160_25379
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/5a/89/5a894e03615d859ca15497ca636e79e2.jpg", Перу 4K 60fps
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-441.rtbcdn.ru/hls-vod/QvT4aOaBiYh-0kwbe19W9Q/1794083277/1893/0x5000c500e539c5d1/30b0c3590b9e4880a6a00ac6fea26165.mp4.m3u8?i=3840x2160_26231
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/ec/6e/ec6eb7f0891bcf8f4ad9699fcfbdb205.jpg", Кения В 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-411.rtbcdn.ru/hls-vod/3WdliL8HeEIAM7s4vNryuQ/1794083278/2658/0x5000039ce8401b5d/378db7d4f4ad4aafbb4535e9125ce221.mp4.m3u8?i=3840x2160_15323
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/bf/63/bf63ccc22cd2bacdefb8b27571dff50b.jpg", Бора-Бора в 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+https://river-4-455.rtbcdn.ru/hls-vod/Wa-xoVv3MHc84ycOboKeGQ/1794083278/1887/0x5000c500e53a12cf/2421863b9a0e4c9ea67de9fe0855f530.mp4.m3u8?i=3840x2160_17254
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/29/31/29318086e00da1c865da25131f866d4f.jpg", Карибы в 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-418.rtbcdn.ru/hls-vod/30VatLDrsbh5kJgscwytcQ/1794083278/1772/0x5000c500d6d78c87/c002696df2d3474e95bf422d74a10427.mp4.m3u8?i=3840x2160_11480
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/51/f3/51f330a0fe798c746cda323431220662.jpg", Намибия в 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-472.rtbcdn.ru/hls-vod/lIqAQ_abANdYtyKgTszVJg/1794083279/2462/0x5000c500e88261c4/881a26935b1f4adb927b518c0b77d489.mp4.m3u8?i=3840x2160_11828
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/b7/fc/b7fc29123ab95b0ad408e42280ad1b71.jpg", Китай В 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0
+https://river-4-418.rtbcdn.ru/hls-vod/7rSZcUAnbLgMBIPFnwJP3g/1794083279/1899/0x5000c500e51127eb/c978b1e2beaa4b8f92c50918c7ecc933.mp4.m3u8?i=3840x2160_12530
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/72/6a/726a9243184bbfe47c42763b374a1f25.jpg", Мальдивы в 4К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
+https://river-4-428.rtbcdn.ru/hls-vod/o8rxts0F8oJVB3uNvnEX4A/1794083279/1848/0x5000cca28420b4e4/344cdc5a75cd406a9c81daa62c025492.mp4.m3u8?i=3840x2160_23873
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/5e/5a/5e5a9cb6a10424f8ede9adc9848680c8.jpg", Дубай в 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-451.rtbcdn.ru/hls-vod/D9UKUBrfJC6WQvITSRWZzQ/1794083279/2462/0x5000c500e8828a7e/63d24580fb304a30a0daa941446ffe7d.mp4.m3u8?i=3840x2160_23768
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/14/98/14988617a7aed21381889ab5ceb7b1d9.jpg", Германия в 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+https://river-4-449.rtbcdn.ru/hls-vod/SErKMfLahhG6t6LItzWjtg/1794083279/1776/0x5000c500c92079c7/b46cf235dbb14ddcbabe81d4f63a9fd4.mp4.m3u8?i=3840x2160_9532
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/1d/b4/1db4116552339ca6a936c366f7582b38.jpg", Россия В 4К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-440.rtbcdn.ru/hls-vod/P-UDUdKoHEe_Yd7YuJgRrg/1793562634/1776/0x5000c500c3920f7f/9195d28dad90489aac2cb7c6dd6725aa.mp4.m3u8?i=3840x2160_15878
+https://river-4-440.rtbcdn.ru/hls-vod/LxrTPRz7Gk1JCBmc_rbVjw/1794083279/1776/0x5000c500c3920f7f/9195d28dad90489aac2cb7c6dd6725aa.mp4.m3u8?i=3840x2160_15878
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/7b/88/7b881e1b446bd5519251f5a89b197144.jpg", Подводный Мир В 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-6-603.rtbcdn.ru/hls-vod/7BqOMIn_fq6euATFj_c7LQ/1793562634/1877/0x5000c500e53bc570/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-6-601.rtbcdn.ru/hls-vod/Cp6GYhyCsK7XZH-xN4g_RA/1794083280/1877/0x5000c500e53bc570/8a19e5ed6a9840349280d2cba180870a.mp4.m3u8?i=3840x2160_16302
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/c7/4c/c74ce2aa0d060a142070e9724fde3bef.jpg", Детеныши Животных В 4К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 OPR/129.0.0.0
-https://river-4-480.rtbcdn.ru/hls-vod/KnRL49-FFha8olOTSZFCbA/1793562635/1897/0x5000c500e4a02f9a/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
+https://river-4-480.rtbcdn.ru/hls-vod/_QVClhBikyXWi6px8JEd3Q/1794083280/1897/0x5000c500e4a02f9a/5481e2c1a8e5473c804cfbc908dd7899.mp4.m3u8?i=3840x2160_15516
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/10/9e/109e637b8250d8471f1c1b6fd7d8e290.jpg", Животные Австралии В 4К
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-452.rtbcdn.ru/hls-vod/8qB8FRuQCbNAndA7-qN9Kw/1793562635/2211/0x5000c500e661f8f6/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
-#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/91/3e/913e20d0e2711442e9b835ade3a86737.jpg", Повседневные Вещи В Макро Съемке
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
-https://river-4-441.rtbcdn.ru/hls-vod/79J_B7PUMzbMHBT8HTDgSw/1793562636/3402/0x5000c500fa6e7d63/7ea3d827b7234257abffc94e1cce193e.mp4.m3u8?i=3840x2160_11802
+https://river-4-452.rtbcdn.ru/hls-vod/Yb0RIjaWEBlQduceHh9Row/1794083280/2211/0x5000c500e661f8f6/bec395a0100c42a1b52bec53605116a4.mp4.m3u8?i=3840x2160_16020
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/91/3e/913e20d0e2711442e9b835ade3a86737.jpg", Повседневные Вещи В Макро Съемке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-4-441.rtbcdn.ru/hls-vod/pEU5A-O0XPSIY6RbtORz1Q/1794083281/3402/0x5000c500fa6e7d63/7ea3d827b7234257abffc94e1cce193e.mp4.m3u8?i=3840x2160_11802
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/ce/01/ce01d4f2b1984d8dc9468e192f5816e9.jpg", Океан В 4К Релакс
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-m9-comc-d3102.rtbcdn.ru/hls-vod/cXzLIqG92UAUFK3LCPhUaw/1793562636/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://river-3-346.rtbcdn.ru/hls-vod/GfHCiBaMEvXCiKZ5WLlCfQ/1794083281/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
 #EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg", Лес В 4К
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://river-4-453.rtbcdn.ru/hls-vod/iRS2jl6ekyKZZ45SCqDVVA/1793562636/2656/0x5000039ce83bb529/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
+https://river-4-453.rtbcdn.ru/hls-vod/MvLzqLBal8iLzKjQ7sf1RA/1794083281/2656/0x5000039ce83bb529/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
 #EXTINF:-1 group-title="Велком",Ultra 4K Extreme
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1 group-title="Велком",viju Explore
@@ -1280,544 +1280,544 @@ http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
 http://tv.ttk.mx:9065
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/NTVplusfut3HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://95.181.17.18/dvr01/sd2/ntvsport/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport HD
-http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiA3OjU4OjIzIFBNJmhhc2hfdmFsdWU9anc5amw5cG8zQ2lrcnlOK002TXB4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyNiA4OjQyOjE4IFBNJmhhc2hfdmFsdWU9cHV1cWxDa3Vxbyt2RkUvM3RkcXpkQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0orHtwPEJFMFkp9XQCVlWw&e=2093390354&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=6dX2aWQaUBN7dBwMlkRXKA&e=2093479390&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=abGDArrWWzLHYgqw5_w81A&e=2093390354&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=8_hu3FlffLW8BivmNVop5A&e=2093479390&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=swmVhA6xI5NoizAbaZ863w&e=2093390355&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=A0A58NLJaNkS_hkBfi74PQ&e=2093479390&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=cuMYUjAAF1glhNeuUcKxbQ&e=2093390355&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=O5jToRQQW89y-te3xB7iKQ&e=2093479391&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=0WICvoMErC1srEgRbSf7fw&e=2093390355&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=WrrXzeXXPSouOQG3dQMntA&e=2093479392&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Москва-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=PCOiKaYIwHgjmiQjLMlIsw&e=2093390356&scheme=https
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=0tlak_uQ47d_RiE-1APcsg&e=2093479392&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=LTuRl6MqYJKnIv4bcTnKCg&e=2093390356&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=ZscIFGLpcSYYFrez4y-54g&e=2093479393&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=lO-461EDGae80axVOhhX-Q&e=2093390357&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=VQB7yJJ3cMPU_OSyFNYS5Q&e=2093479393&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=HWTCz1StP3c9uDjqVN-LkA&e=2093390357&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=XtRZ3GBdcil1cQncKTPQiQ&e=2093479394&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Суббота!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=BLY3HyujY2tHgGCMBhyn2g&e=2093390358&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=R9tJ6_Iwtjjv00xAnfhNTg&e=2093479395&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=kH1u2zAm07bExTlTVfLL4A&e=2093390358&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=OkTneNF8bsxEz6cdcGyHQw&e=2093479396&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",CGTN Русский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=WgUDDLx0xDqy7tQ0_OF1mA&e=2093390358&scheme=https
+https://bl.rutube.ru/livestream/f785d738a845cc80658e887843a18ed9/index.m3u8?s=qzdWR-LW_A5lCKXIEtA9fg&e=2093479396&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Нано ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=fANU364Lj9-du483aDEATg&e=2093390359&scheme=https
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=_dR0auapnWHjEAaA2PlpHA&e=2093479397&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Охотник и рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=id9XHsaAld8_3NY_R_HNqg&e=2093390359&scheme=https
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=indmV8Zr-xbNj6jbXqv-uA&e=2093479397&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Документалки и шоу
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=sp7R60KAnTBTmvcMdKIapA&e=2093390359&scheme=https
+https://bl.rutube.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=YqZ80o1ON6hg5xoGxdp0Iw&e=2093479397&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=d7OUmQeeW_GoY_jYpC1VDQ&e=2093390359&scheme=https
+https://bl.rutube.ru/livestream/4004c8f6817b9ae1bd0d418905ae2b02/index.m3u8?s=bFMWrtQ__FjiYOMHyz1k7w&e=2093479398&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=iI9jlS4kfcJINmXIn7zurA&e=2093390360&scheme=https
+https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=2dM4UCwhB4zO7321EbKvuA&e=2093479398&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=mTrHVSNyk0vc0a2gLNH-Lg&e=2093390360&scheme=https
+https://bl.rutube.ru/livestream/2619fc295c16585ef018041d88f14db0/index.m3u8?s=bjd6uWwactlzelRfiqmr8w&e=2093479398&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Nat Geo Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=HH4Eet_gRCtL8vF2hg2zeQ&e=2093390360&scheme=https
+https://bl.rutube.ru/livestream/c11af26c0ab831ce6c37a4888056479b/index.m3u8?s=FL9NVz7P2AiQy4OeWzftWg&e=2093479398&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Investigation Discovery
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=4VBJCskKzTYfCfS_MFfMKA&e=2093390360&scheme=https
+https://bl.rutube.ru/livestream/a91d58870b9a0d23b2309d020ac4b354/index.m3u8?s=SheuHg9Yhsl02ZRKdaMWow&e=2093479399&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Travel Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=drYc_ARjpjRDh0TIXUy51w&e=2093390361&scheme=https
+https://bl.rutube.ru/livestream/4196566bc9c3b7b854074ad1a9a2db36/index.m3u8?s=61LmCjhyRZHD2loQXJgPjg&e=2093479400&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=jG_C1kFmneDuqnpjKFoqeA&e=2093390361&scheme=https
+https://bl.rutube.ru/livestream/7c3d1a4cc0b4dff1176aa2dbb0b90000/index.m3u8?s=Y6QRwBv9dYNyGB5_RXkODA&e=2093479400&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Загородный International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=WzhfVCBXh2mNqxLAHORu4w&e=2093390361&scheme=https
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=xkpFaQtEdwpDlkqKGKazGw&e=2093479400&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Тайна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=-uhO1JJU6aI2neGbInHaOw&e=2093390362&scheme=https
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=YJwYJKWGaQxnX8bO4EJBvA&e=2093479400&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Киножелезо
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=F-6J-a9mV8GuVT4ioRFuFw&e=2093390362&scheme=https
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=RdoKAjtzqBotg4q9HKucig&e=2093479401&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Fox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=E5lmKGmVl1iPf-NiazNmqw&e=2093390362&scheme=https
+https://bl.rutube.ru/livestream/bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=sVS6ii6bjcCQAzU39arXuQ&e=2093479401&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Fox Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=CJB2hy7kBn68_SZNAo5Ltw&e=2093390363&scheme=https
+https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=WwEYymqvmPA6-BoNMB88NA&e=2093479401&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Кинолаффка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=0LKxjPsnBp2d5w8bEiVoxw&e=2093390363&scheme=https
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=8RsUOwfFN7FaBId3Arfdeg&e=2093479402&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Кино и Жизнь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=tnGb9TiG-iHa0jyU9vstOA&e=2093390363&scheme=https
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=Ra377rwS13jBYpmEToX5eQ&e=2093479402&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Фильмач
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=9WKkX48jDJ74fCAXywNT3A&e=2093390364&scheme=https
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=rfzHt9zt-X68u1hRayh5Fg&e=2093479402&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Детективы каждый день
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=KGD2apHQYtEA4GMcEf-BGg&e=2093390364&scheme=https
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=tCa8ggkjDibQ6YYKCJNCow&e=2093479403&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Apple TV+Action Time
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=vHHs23UU-rXQYLfm3c6czg&e=2093390364&scheme=https
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=0B4cYVj_RM0SjwLp536X6g&e=2093479403&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Apple TV+Woman's Story
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=eQnvKeg2_Ur3hU8xUpBpaw&e=2093390364&scheme=https
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=9PJyx5MVmF7Aicq81a9bpQ&e=2093479403&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Epic Media Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=Xmz_CD6XrPxbyvgsxeZYpQ&e=2093390365&scheme=https
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=jfDBfTJg_Kb4Nez7km86LQ&e=2093479404&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Epic Media Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=klh-2HNnXVjiHK-niI3fXA&e=2093390365&scheme=https
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=kFr4qYJE3_LtK4XQyq_L-g&e=2093479404&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Amazon Prime Video mans' club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=yost5Dr11ujov_aI1uv1lg&e=2093390365&scheme=https
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=D30VNtDITEzrYIjCFzvNVw&e=2093479404&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Amazon Prime Video Romance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=1duGL94i7Xg8--5Yw9ascw&e=2093390365&scheme=https
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=UNpyeXeBj4wx7uzHWA6L5g&e=2093479404&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Звездные войны
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=tn-qt31BRSrjQ2hqHbjmcQ&e=2093390365&scheme=https
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=pUoJwonKRxpm-zWtijOySQ&e=2093479405&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Гарри Поттер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=GRGgIF34wUnSheirIaJyWQ&e=2093479405&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Властелин колец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=H-JEA4j7eacMe_OeHeLrPA&e=2093390366&scheme=https
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=tmTGcb9KXigGjbWXMM1Mig&e=2093479405&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Marvel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=C45QzhO-stpowGvpj-qGPQ&e=2093390366&scheme=https
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=B6CoP4yTAzHYqEWjanD49w&e=2093479406&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Вселенная DC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=r0ebTPKAjLuNKkeMrDXh6w&e=2093390366&scheme=https
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=8KBQoG0fySwvyaAg5KLI9Q&e=2093479406&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Твой кинотеатр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=Xx3RfkF__3vIiDOzhu5gDA&e=2093390367&scheme=https
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=3tCT-pkLb_Ety0Mtr5o4DQ&e=2093479406&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",HHQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=cDrfVeJPKUO3O_j6e4ZKLQ&e=2093390367&scheme=https
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=K2qXn5Iv00vmPRMF34gafA&e=2093479407&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Буряад ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=NAGpesF7z5EDSrAlmBvhRQ&e=2093390367&scheme=https
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=qPhMUe3AGP5VfImc7Fgvug&e=2093479407&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ОТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=ddD9ZUxNUXzKDKu52obOdA&e=2093390367&scheme=https
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=F50UAu5Dkq1sPTcDwo4_gg&e=2093479407&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Союзный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=QO_yTlSJKzkJWkae9OyksQ&e=2093390368&scheme=https
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=8doQOxdLQrx4-2M-3r5E8g&e=2093479407&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Плюс минус 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=zH-yOZeRbS5COvPJWxzbjw&e=2093390368&scheme=https
+https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=l85YdvGutvsHImHtNFWr3Q&e=2093479408&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Сургут 86 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=IRJ8hExIKT7Tp4p6nIHArQ&e=2093390368&scheme=https
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=U9Ncj7om_AuzWhyxSxRSkw&e=2093479408&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Сургут 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=vmC-erTDlUnKKI_L7Ez3Ow&e=2093390368&scheme=https
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=YoMC5_P3GYYzDAgQ_hlveQ&e=2093479408&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Барс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=WKZE7oGvcTtbJK1BzPyXYg&e=2093390369&scheme=https
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=S7bdAhkKFniulD-8wBslJw&e=2093479409&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ЮУРГУ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=TXhff8Q_HATfb4zxvFOFQw&e=2093390369&scheme=https
+https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=hNK0ZvoZrTZIdJgw4xXVbg&e=2093479409&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Югра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=bclzPcaTJgyOoSASfJfqMg&e=2093390369&scheme=https
+https://bl.rutube.ru/livestream/360eabf2bf139f0a97b971c4b92d09b6/index.m3u8?s=BPxPlI150lWfYJdXfRFP9Q&e=2093479409&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Крым 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cf71a03fba2c98f47a539e0e39b9d333/index.m3u8?s=F5W3N_RwheO6gCBRaJBXqQ&e=2093390370&scheme=https
+https://bl.rutube.ru/livestream/cf71a03fba2c98f47a539e0e39b9d333/index.m3u8?s=nhQcLj6eAxMVcTmEryLNFg&e=2093479410&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Липецкое время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=R94mSCsvW112nyarby23Wg&e=2093390370&scheme=https
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=NS_u6QBpeamqtTFuIfFXrg&e=2093479410&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первоуральск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=HVilGh-e39k7orsxCXP66A&e=2093390370&scheme=https
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=XL56cMOZk8hAmkOXRdo3ug&e=2093479410&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Лен ТВ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=g6j9Judc5MtXtMsrmleeGg&e=2093390370&scheme=https
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=_6cnmFsWT54rgfTjzJ2iaw&e=2093479410&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=_I5i2LNeoaPfRKTLxXxsaA&e=2093390371&scheme=https
+https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=lHp_RHN1ozrkLOqTGKyivA&e=2093479411&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",РГВК Дагестан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=8pTA2z649Drp0CYgweHSpQ&e=2093390371&scheme=https
+https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=bEzJcToLVO6cbETd5QdxzA&e=2093479411&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",РБК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=F-FNL4cRtxtxNSZfgvCkAQ&e=2093390371&scheme=https
+https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=FEW5PXNrVSpxMqAMA7i21Q&e=2093479411&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Таврия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a969ca8279415378bc8abd345fcfded9/index.m3u8?s=YLYkdT-l0BMReu3JS6RiBA&e=2093390371&scheme=https
+https://bl.rutube.ru/livestream/a969ca8279415378bc8abd345fcfded9/index.m3u8?s=ahOH9XLoePpXvAiE7KmlCA&e=2093479411&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",41 Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=sfaqxL25btAzvWBDPIc5jA&e=2093390372&scheme=https
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=FYTystZbUOvtgr0zHlffeg&e=2093479412&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Вся Уфа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=2TwxbQ782pxXFXhqPoVMtA&e=2093390372&scheme=https
+https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=d8dUMy7G9qCTKRYpE-epqw&e=2093479412&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=MHKr9TR6d9vi8oyGepGayQ&e=2093390372&scheme=https
+https://bl.rutube.ru/livestream/ee431650738a594119c3516ceda72775/index.m3u8?s=OXeGG1Xh0tjfSXf35K6N4w&e=2093479412&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ника ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=2Y3k1XFfL3iMqjXqxjzG2w&e=2093390372&scheme=https
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=uF8B5hAGmZXElPIcdj3aCA&e=2093479413&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Среда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=Pre-TEYqNXoX9LZC1cSgAQ&e=2093390373&scheme=https
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=bxr5dnRdIGe1KGL4y1XTVA&e=2093479413&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",UTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=PmaUVUCVylRhPqjIbTBgag&e=2093390373&scheme=https
+https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=hx75rm_5xMaxzAfevrflrg&e=2093479413&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=ZFGvM0cSP_A-CHjbH6X1dA&e=2093390373&scheme=https
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=1NYUBYsfaWjtod7i88bKYg&e=2093479413&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Сангат
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=3V860ZulbMxnnNArpdjUGw&e=2093390373&scheme=https
+https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=cygC82yOERBO-qCmWs42zw&e=2093479414&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Волга
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=D2nBP1kAELUgWqHwYj2MZg&e=2093390374&scheme=https
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=I5L2Aw4cg24ie4krbm0S0A&e=2093479414&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Илли ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=Hz1bzX1pXlxp-xzQv4hvKg&e=2093390374&scheme=https
+https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=XnV2MAkIiPou4QYcyyN_pw&e=2093479414&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ЛТВ (Люберцы)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=Cr0IBFLuRNcCwliS-vFD1g&e=2093390374&scheme=https
+https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=QU0v6SZNlNLRUfsieKHNkw&e=2093479415&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Канал 78
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=qOAclthopd5QpkQdLJZYEA&e=2093390375&scheme=https
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=P1klnsgrLig0m3qEr1p3Vg&e=2093479415&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Волга 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=2L7Iakg9v6toeiNc4U4S0Q&e=2093390375&scheme=https
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=eVBLzsSamrJrJrQBdUT-tQ&e=2093479415&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Башкортостан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=Cv77usm1vQCPur_kXEe-SQ&e=2093390375&scheme=https
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=oxMu_6hjoZ0lLjdldTDxpw&e=2093479416&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Абакан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=djo3txeLfv2eE5mPtD2A0w&e=2093390375&scheme=https
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=Ol7vANKQbASycX3_I0R-Qg&e=2093479416&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Саратов 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=tPamKmUX_DHskscBLFEgIQ&e=2093390376&scheme=https
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=WKg1Z7X-jqwgYLE09zUmzA&e=2093479416&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Липецк 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=Yrx6dk9fWqZVVY_mWCLSIQ&e=2093390376&scheme=https
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=eZroHurBRS-CEIHXP5k3ng&e=2093479417&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ариг Ус 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=00rEusxG1xInxOqgAZMogw&e=2093390376&scheme=https
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=VjqXH7k9k4Z7dwtUzCZCmw&e=2093479417&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ДОН 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=nsLRnyPexx5zsP4ciSalzw&e=2093390376&scheme=https
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=65bizhYxBFyUa-SpNHP0qQ&e=2093479417&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",АРИС 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=MLuEeUsy0GQ6u5WUVI1_Mw&e=2093390376&scheme=https
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=9h1kjSbB_-QuYZIgLrsQpA&e=2093479417&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ВЕТТА 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=n7XIdrtXED1iIh9KjmTlOA&e=2093390377&scheme=https
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=CCkBMcLIIM-I0o21X3_P3w&e=2093479418&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мир 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=ZUSEN-f1ycfeQogoAobb1A&e=2093390377&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=R4Za-_8UodCwN_1lFgjfOg&e=2093479418&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=HG-b-T8a9de-3Hvfajf0-A&e=2093390377&scheme=https
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=zfuRZZL_-LoqcCps8ybtNw&e=2093479418&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Губерния 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/52a1592710d8803b0570bfef9d2fbeff/index.m3u8?s=DCCp6IhiirlxSSIR5ZWjzQ&e=2093390377&scheme=https
+https://bl.rutube.ru/livestream/52a1592710d8803b0570bfef9d2fbeff/index.m3u8?s=zwi9dGVDNB-JumNmpS86SQ&e=2093479418&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Рифей-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=t14TZ1_RNsDVroP_e1jYYg&e=2093390377&scheme=https
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=Su0ky6SifvGofrfJkSqKJA&e=2093479419&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТМК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=VQ16bvHoce6-mnh5P9I2Bg&e=2093390378&scheme=https
+https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=lyrKu0dTULXVbeheHyUIIQ&e=2093479419&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мой мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=gnH26ovXX_R6NxXBy1eGfg&e=2093390378&scheme=https
+https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=Jj3FYQ5r3px-1EQXo0RHJQ&e=2093479419&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",КРИК-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=cwXp8Krl0iSJds7uEYMlxQ&e=2093390378&scheme=https
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=2GzsP_fgFDa2wxhai4vnIQ&e=2093479420&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Своё ТВ Ставрополь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=-568cZlRtAVrE9ESEk-Grg&e=2093390379&scheme=https
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=PIW7Q6DPztFQX2xHxZyi7Q&e=2093479420&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Вместе-РФ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=it9LJ9t7Dj7kRksuvqX23w&e=2093390379&scheme=https
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=JOUvUhmuqemjeW--_rQEnw&e=2093479420&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Продвижение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=lC7oPRgQaGSoLf1bfBDhZw&e=2093390379&scheme=https
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=GE23HypDbSRI6AlPhosOPg&e=2093479420&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Импульс Севера
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=OfK9ymPn2Xo2uXPPcC2Pow&e=2093390379&scheme=https
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=RcO-Ma_ZL9b6M8B0h2qGBg&e=2093479421&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Самотлор (Нижневартовск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=MLzX7lf7H1MRqDd_n-O_hg&e=2093390380&scheme=https
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=_inh4y07PLUlrJVOXt77eg&e=2093479421&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",НТС (Иркутск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=Je5tVsE93d0VpWgzBQ59lA&e=2093390380&scheme=https
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=zJK4StJnkF7N-Uhe-TwWcw&e=2093479421&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Евразия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=vTlstl37QcoMIgSatzq48w&e=2093390380&scheme=https
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=qM4IRlxYjMVvz9QFp_SJwA&e=2093479422&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТОЛК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=PYpFch9GDZln12OehTaKsQ&e=2093390381&scheme=https
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=bT6ihv9ZLUlLwAC1YiMxjA&e=2093479422&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ННТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=cqfpdQlYUCOzT6lW8yz2kw&e=2093390381&scheme=https
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=4LU5D1JQ0lV8qMXEcD27fQ&e=2093479422&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",МТВ Волгоград
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=I8rvwmdFC9o8jg8n3R7f7w&e=2093390381&scheme=https
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=ul9vMv3bDpBT4r-zdd0b7w&e=2093479422&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Енисей +4 (Орион)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=EylGSMBVSq-gzomeJCP63w&e=2093390381&scheme=https
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=VZ1Y8iGLm2wiw9SBikdgSA&e=2093479423&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",БСТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/92aa15b4975d9f63c4e0b82e3b7af463/index.m3u8?s=LLB__Q0-lzIOKDTrAEKU9A&e=2093390382&scheme=https
+https://bl.rutube.ru/livestream/92aa15b4975d9f63c4e0b82e3b7af463/index.m3u8?s=K1s2sDXiy-vQJCJPsrKk8g&e=2093479423&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Юрган
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=s7yUJMANujTa6MMq5opmDQ&e=2093390382&scheme=https
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=ps2btgy6qzrEVpa7cHFFPA&e=2093479423&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Царьград
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=wdrefxXgasefpdrMpaSfZQ&e=2093390382&scheme=https
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=Mp0BYyeUXJfEFQlKF5k19Q&e=2093479424&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Омск ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=sZ1uziQY_YGc0zr922ozzw&e=2093390383&scheme=https
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=Fh8Fagp52FLroLtXizkiDQ&e=2093479424&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТБВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=oyOChNz_q5bKqBC5wufR-w&e=2093390383&scheme=https
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=N1ljcYpM3H0GHE7sVJHz3w&e=2093479424&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=6yO4G98DdSygKsLEIFxrDw&e=2093390383&scheme=https
+https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=pA2FylSg8Kg3z4LOK6sZYQ&e=2093479425&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ямал-Регион
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=7FIOfMH8GUGUJjuZGb3Klw&e=2093390383&scheme=https
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=LvfJRk989p_2X7W7S1HRwg&e=2093479425&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",БТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=5L2Hv6aDWyjR5gnYLP3gSw&e=2093390384&scheme=https
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=REcitjJ4TnJo8ilYiTQX3g&e=2093479425&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Магас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=Z-Y_Hr4jSZH-SEHAfRdKJQ&e=2093390384&scheme=https
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=3HfGy38-HZ777KYjSlF34Q&e=2093479425&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый Ярославский
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=Rp5-ajxB77N4Hu2YvOF8Nw&e=2093390385&scheme=https
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=TxdPpJ41QgRrvcCQ65d6gA&e=2093479426&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=v2pYjNMkP_O_1WOlf2RfpA&e=2093390385&scheme=https
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=d6SZKhoas34RIeZVNI6L1Q&e=2093479426&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Истоки Орёл
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=8HHP4wrWlJzikA8MivJ7AQ&e=2093390385&scheme=https
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=UjrhUZUefLh0fIh6in2CDg&e=2093479426&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=cM1fxQGNIkwTwQ-FrQdDOQ&e=2093390386&scheme=https
+https://bl.rutube.ru/livestream/07beff61e617797db550cc3a5f6ad92b/index.m3u8?s=I2yfL7I1e-ePjP5xgLIxew&e=2093479427&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Прима
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=tWNQgkt-YV_79m1yRodHog&e=2093390386&scheme=https
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=u_GHjAAsnm96DfMZcbyIhA&e=2093479427&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",АСТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=culz0M_bRmIy4_rCHZJTHA&e=2093390386&scheme=https
+https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=mWnXJCp9OMYmpxEBEQRJ_w&e=2093479427&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",10 канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=8rj_g6chFJjyWb2_McxCEw&e=2093390387&scheme=https
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=YT3ID0hW_X_g7r6M14OOZg&e=2093479428&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Канал 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=Ei7Qitw_3L3A_bHuChFwUg&e=2093390387&scheme=https
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=G3j02h7LouNGi0LFQUPudQ&e=2093479428&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Спас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=nZBgaKQk9yvaw85l_ayeRw&e=2093390387&scheme=https
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=oxV7MQ6x6cYkko6REFjOIw&e=2093479428&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Наше Аниме
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=UgOuTiRSs8gLT7SoB6x_rw&e=2093390387&scheme=https
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=qDk7TmPihQS8lHxufiDVbw&e=2093479429&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Рика и Морти
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=fcqLPvsFFNf5cdjFeVmp7w&e=2093390388&scheme=https
+https://bl.rutube.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=BuMOX2sfbLgylHd6kV7JWQ&e=2093479429&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мультимейшн
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=LWzfvc1QpV346c4781Rg3Q&e=2093390388&scheme=https
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=y_GGK0t21qFMrqNyb9M0hw&e=2093479429&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мультфильмы 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=xMypRse9qdG9IzKQBb0okQ&e=2093390388&scheme=https
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=drdRV5K1RPWvcr2z5LGsXw&e=2093479430&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Радость моя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=a2lpQUD0DRDWsKX-OtfdaA&e=2093390388&scheme=https
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=m5H5IoFbXDDy3ra-DqdV1A&e=2093479430&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Мультаташечки
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=W0SpsVfxSftZsjkVi8DB3A&e=2093390389&scheme=https
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=Qz3MzsQDybeIJfiQ8_TKRA&e=2093479430&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=Ie-_ySjRKoG8KsxpYABfSQ&e=2093390389&scheme=https
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=518WsgtUI01JlWDimaomLQ&e=2093479430&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=kObVcSpNpUwZMPGfO5sqEA&e=2093390389&scheme=https
+https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=h0ELpZGGB0DdVLgJofrOeA&e=2093479431&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=wljYQC0rm56TfRl168Y3KQ&e=2093390389&scheme=https
+https://bl.rutube.ru/livestream/e902c1a059034a1537430b2aa5aedece/index.m3u8?s=mnd2k8O7eTW-EhnpAO42RQ&e=2093479431&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Солнце
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=wnyrqixagA6F0LhshFcYzQ&e=2093390390&scheme=https
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=aSh7dmDbDzXgPXWWO_cCNA&e=2093479431&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ключайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=F4_0fCbtpEOoGiVIF8khWg&e=2093390390&scheme=https
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=K0JrqZMDi3TQ7n8UmozFXg&e=2093479431&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Смотри Радио
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=FK0Q1qDyAEdT4jqZKL5uFg&e=2093390390&scheme=https
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=EaKiseVXifaSLWvFZYGRrg&e=2093479431&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Kronehit TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/bc1b811349f526188c839d377913e16a/index.m3u8?s=X9FOjGNesn8D43H8bmeRmA&e=2093390390&scheme=https
+https://bl.rutube.ru/livestream/bc1b811349f526188c839d377913e16a/index.m3u8?s=CkeVBh3-MMVrDRw-91taDA&e=2093479432&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Activa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=CBDY4XIZBTgcms8rwKdcGQ&e=2093390397&scheme=https
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=a4hDb_WKx5n0ZW-IiAlJRA&e=2093479439&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=viTAh0NKzzn3BN0ey9xDuw&e=2093390398&scheme=https
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=esA23o0O7d4h9l9905PtRA&e=2093479439&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",МузТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=KgXj7mrrU13wrACO2k3K7g&e=2093390398&scheme=https
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=xXPD5JgOsD62X24obioG8g&e=2093479439&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=iLcbZykV2odopH6S1BY7Iw&e=2093390398&scheme=https
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=jOKFxnLPpFnYC1iF17EFbg&e=2093479440&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ММТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=B_ADnsXEZCCx8f9SDziZ8Q&e=2093390399&scheme=https
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=h00k1mxNp5Soux6UrCyo9Q&e=2093479440&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Now Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=fKS24XUV95y1kgfHhuRaAQ&e=2093390399&scheme=https
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=1KXDNjbEu6Hq_sIUo5CYZw&e=2093479440&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=jY-HLyjSCzZQOpVB8dOTrw&e=2093390399&scheme=https
+https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=FEDs6j0aJbPPf0ouWQvO0A&e=2093479441&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Супердискотека 90х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=XvDC2NrdYs-PKUXReE1YIQ&e=2093390400&scheme=https
+https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=F9dAT0DoPbhblUOmQLHLUQ&e=2093479441&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Big Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=ma8Da3Xlry5cZJPdZgvirg&e=2093390400&scheme=https
+https://bl.rutube.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=W_5jxXj3uQ1-xkHMliUIyg&e=2093479441&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Rock
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=6SDtRvP-fShnIxlGJKO8bg&e=2093390400&scheme=https
+https://bl.rutube.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=VY5q-5DpIaxgyTPJhCc-ew&e=2093479441&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Dance Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=nrgC4k_EUsbzWDsOa_B2sw&e=2093390400&scheme=https
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=GZJ2T3MUNWjzskEkQR0Llg&e=2093479442&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Russian Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=P0PWR71i85uthlW-RNK6cA&e=2093390400&scheme=https
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=bpxO3Ob_rHWtsx0Mstc-Mw&e=2093479442&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Гоп FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=5a_CYLafYmOssnNoxRepKg&e=2093390401&scheme=https
+https://bl.rutube.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=5zcUwykdYEa0tAoTWRpb9g&e=2093479442&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Megamix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=2Gn6oEQDp71oVqZPqsiCMQ&e=2093390401&scheme=https
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=i7t9HKhFu4aJexvY4-R1Kg&e=2093479443&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Russian Mix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=bvbr-bR47mXSv2A18tQ6Gw&e=2093390401&scheme=https
+https://bl.rutube.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=cPCPDlgRPiDnYJT4sBtr6A&e=2093479443&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Deep
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=tZ6D1LH-uCIJxGz8daeCNw&e=2093390401&scheme=https
+https://bl.rutube.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=Qgkw6E7KUXd4pZz9SlxW2g&e=2093479443&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Phonk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=eFk_o-ouQpex92bYJgYUNg&e=2093390402&scheme=https
+https://bl.rutube.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=R843NZNSQjMJcwF6sgHeGA&e=2093479444&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Chill House
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=em22o8h-i6pk8n_bGvNWZQ&e=2093390402&scheme=https
+https://bl.rutube.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=Byic1soz4oHdLqvVYpudPA&e=2093479444&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Drum n Bass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=32XIJy-i2S5ZmP0ujPaZUw&e=2093390402&scheme=https
+https://bl.rutube.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=dilNGQPWG6AF_Gx14q8jeg&e=2093479444&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Chill-Out
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=QVB652A47aW2TJuVhXwUqA&e=2093390403&scheme=https
+https://bl.rutube.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=T4yAAjA8W_XXjPuNQSYF1Q&e=2093479444&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Techno by Innocence
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=2ipiBpGByXpXnli_QikUQw&e=2093390403&scheme=https
+https://bl.rutube.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=4tG12Olm20dPulMw91Xe0A&e=2093479445&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Record Trance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=d2xwXOht5JP1HzbOcJpogw&e=2093390404&scheme=https
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Q_Sux7H3Z9h7XIXRvnV1Og&e=2093479445&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",VIVA Russia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=22BHtQ5GmWQKWA8bSK75uw&e=2093390404&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=Ldq9d_erHFGPuYF2LAVr1A&e=2093479445&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Матч ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=_6wcCB2VGauUk-rEO_Fcgw&e=2093390404&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=9INPGddScQWTpkc1jhkF8Q&e=2093479446&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",NHL Network [US]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=EgHbQeDA95-RTurhl74ouQ&e=2093390404&scheme=https
+https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=dyoorg9UGI-Xoz-5dyUZcw&e=2093479446&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",TNT SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=zR5ud081puE6npI4HQApUA&e=2093390405&scheme=https
+https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=jwfulml-a4IEWl8WkXnoYw&e=2093479446&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Red Bull TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=VTjD-P9yH-GGcwm6nJv_Cw&e=2093390405&scheme=https
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=RHax-8brjqDCN36uuplnjQ&e=2093479446&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=-cdQw45RK5mU4R_kfH5-ow&e=2093390406&scheme=https
+https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=ZjNKryUb0iabB5vAb6-M9g&e=2093479447&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",SKY SPORTS CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=fh_96p0Jy_g3YcvkYGc4sg&e=2093390406&scheme=https
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=QvctITVj5lpSDd7FywLtMw&e=2093479447&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=I5-dGmhTKNprW3cSBnj9gw&e=2093390406&scheme=https
+https://bl.rutube.ru/livestream/a7a17d6b994f02a80aebd69435266b58/index.m3u8?s=9k9PbAYFjpMECUVgM3ViAw&e=2093479447&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=nR9ZGJ7ukjGIJjuTVFiZwg&e=2093390407&scheme=https
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=aKvnQEnqT7W2Iygs9aHvhA&e=2093479448&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=67kWnlNkSaemHCETuaRBlQ&e=2093390407&scheme=https
+https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=MjRCkt9ixAUno7pSdaQQxg&e=2093479448&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Sky Sports Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=w0TvA4HV9QN9GDafl2_3XA&e=2093390407&scheme=https
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=9juW4x5VE-oIDdmBwJ_qCg&e=2093479448&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Sports Grid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=pJ-VR5_GWC6LHhsn41bAFA&e=2093390407&scheme=https
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=Jz7F0UNK4chaR_qS6oGxXA&e=2093479449&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",TVS Classic Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=4CKYS7qIectxFKtToamRKg&e=2093390408&scheme=https
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=skT51mlabWNhqtGvjhL-OQ&e=2093479449&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",beIN SPORTS XTRA Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=irnsRe44skvnBITKKgpj8w&e=2093390408&scheme=https
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=Q29UXhPw_pZ3KXksegrYaQ&e=2093479449&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Волейбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=LllexHvTjb58-UeFG6jxeg&e=2093390408&scheme=https
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=D64J68z2D06dEQHywRRcSw&e=2093479450&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Unbeaten
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=BjFuWJtledlZHmm-UTRJbQ&e=2093390408&scheme=https
+https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=bBb2gRZE0yKuNiLVKfBL9w&e=2093479450&scheme=https
 #EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Extreme Sports
