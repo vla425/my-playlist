@@ -3343,6 +3343,9 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4081/str
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33057" tvg-name="SuzuS TV Лучшие российские HD" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4064/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/18AP4Z9fR4V6ZQSA8qMAdyJqVT2msx.png",SuzuS TV Лучшие российские HD
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4064/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv33188" tvg-name="SuzuS TV Люк Бессон HD" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4133/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/FGd3342KXq6OVXZj6HIOMt49hhbDSm.png",SuzuS TV Люк Бессон HD
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4133/stream.m3u8
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv32664" tvg-name="SuzuS TV Мама будет против" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3845/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/OH9jYosel5zNVLwP2I4d8cfUieQwkx.png",SuzuS TV Мама будет против
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3845/stream.m3u8
