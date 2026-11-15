@@ -2450,15 +2450,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/197/stre
 #EXTINF:-1 group-title="Детские" tvg-id="ttv25729" tvg-name="Cartoonito" tvg-logo="http://ttvrun.one/uploads/Cre5OqOfLjaCp0GJqKtDrqRjGaqxwq.png",Cartoonito
 #EXTGRP:Детские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/706/stream.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="ttv25322" tvg-name="Channel 11 HD (IL)" tvg-logo="http://ttvrun.one/uploads/GPG6eb7GAJdqdMFzDIR4DP5PSZLlXv.png",Channel 11 HD (IL)
-#EXTGRP:Израиль
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/53/stream.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="ttv25323" tvg-name="Channel 12 HD (IL)" tvg-logo="http://ttvrun.one/uploads/NHuvDfJJ4Ry42vEGQNTpStHjzYtaap.png",Channel 12 HD (IL)
-#EXTGRP:Израиль
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/54/stream.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="ttv25324" tvg-name="Channel 13 (IL)" tvg-logo="http://ttvrun.one/uploads/H2n1DUG6kGsNfWmJkx1QEWfStsOAm7.png",Channel 13 (IL)
-#EXTGRP:Израиль
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/55/stream.m3u8
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv31509" tvg-name="CHERTV" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3026/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/eN1urSRkaW2IPgiRYw6Mwpt4jqGsxC.png",CHERTV
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3026/stream.m3u8
