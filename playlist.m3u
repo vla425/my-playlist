@@ -1164,8 +1164,6 @@ https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",RU.TV
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://www.shanson.tv/i/logo_191112.png",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://matur-tv.ru/images/logo.png",Матур ТВ
@@ -1693,9 +1691,6 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=Gf
 #EXTINF:-1 group-title="Rutube (VPN)",Музыкальные клипы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/e7e04192431a24a750fd8704fa221461/index.m3u8?s=2jVVJaRjm33yQLuIaDRffg&e=2094731377&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Смотри Радио
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=jaFda1UCJsHMQqMXzkTUZw&e=2094731378&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Kronehit TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/bc1b811349f526188c839d377913e16a/index.m3u8?s=oV8GpO575fzffqE3RXVYPQ&e=2094731378&scheme=https
@@ -2097,8 +2092,6 @@ http://kinowalk.hopto.org/nonestopmovie_live
 http://kinowalk.hopto.org/durkalive_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/376?unique=2026-08-22+20%3A52%3A38.421591&access_token=daa8cbb4-cf59-4084-acf6-7d68facfee86",Mr DRAGON live
 http://kinowalk.hopto.org/mrdragonlive_live
-#EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/377?unique=2026-08-22+21%3A26%3A08.301001&access_token=79ca11ec-3ae9-4bee-b9c2-a641e4fea7ff",МузCOVERрадио
-http://kinowalk.hopto.org/muzcoverradio_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/379?unique=2026-08-23+10%3A13%3A52.193697&access_token=a623ad3d-f8fe-4f32-8900-55e7566b086c",Kira_freak1993
 http://kinowalk.hopto.org/kirafreak_live
 #EXTINF:-1 group-title="Кинозалы 🍿 (VPN)" tvg-logo="http://kinowalk.hopto.org/static-content/logo/383?unique=2026-08-24+10%3A30%3A06.786044&access_token=8ac503b4-1c4d-44db-8398-a5e9fcf09599",grislytoe
@@ -2867,9 +2860,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4109/str
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33043" tvg-name="Le-x TV Военный Dok" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4054/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/TGvN19bAQal0oTUwMbLpfOUcvfLcqC.png",Le-x TV Военный Dok
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4054/stream.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="ttv30609" tvg-name="Life TV" tvg-logo="http://ttvrun.one/uploads/mQEDUzor8sZAXW7t6cSbzq2E0EDMoG.png",Life TV
-#EXTGRP:Религиозные
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2766/stream.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="ttv26519" tvg-name="MCM Top Russia" tvg-logo="http://ttvrun.one/uploads/RdHubCx8x6ncGvlECEbL0dDM8AG9bd.png",MCM Top Russia
 #EXTGRP:Музыка
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/670/stream.m3u8
@@ -2981,9 +2971,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3279/str
 #EXTINF:-1 group-title="Спорт" tvg-id="ttv27318" tvg-name="Qazsport HD" tvg-logo="http://ttvrun.one/uploads/S1RXH57179neymOBxOkMz1WadxUhxB.png",Qazsport HD
 #EXTGRP:Спорт
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/178/stream.m3u8
-#EXTINF:-1 group-title="Радио" tvg-id="ttv27648" tvg-name="Radio Bruno TV (IT)" tvg-logo="http://ttvrun.one/uploads/aSk666OHbHVtzgq1C93cR6YeNfUoRS.png",Radio Bruno TV (IT)
-#EXTGRP:Радио
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/1448/stream.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="ttv29001" tvg-name="Radio Kiss Kiss Italia" tvg-logo="http://ttvrun.one/uploads/9tD1coz2VTzEB9vbVwbv8eeDynT0YW.png",Radio Kiss Kiss Italia
 #EXTGRP:Музыка
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2108/stream.m3u8
@@ -3530,9 +3517,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3004/str
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv31363" tvg-name="TTV Ура! Каникулы" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3007/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/lhz0PZD0GEai6a0ZYLmO43XPUkfh7b.png",TTV Ура! Каникулы
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3007/stream.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="ttv30821" tvg-name="TV Mana Russkiy HD" tvg-logo="http://ttvrun.one/uploads/eqoR0WWPQfr1igaDTEQPDk6L4w3ZPo.png",TV Mana Russkiy HD
-#EXTGRP:Религиозные
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2871/stream.m3u8
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33165" tvg-name="TVbonus Dream Time" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4117/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/5TuerqBQD4qNUdsdpupWpXMtTH4xJC.png",TVbonus Dream Time
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4117/stream.m3u8
@@ -4565,9 +4549,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3209/str
 #EXTINF:-1 group-title="Детские" tvg-id="ttv26412" tvg-name="Мультиландия" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/748/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/SpjCuqELHjrRuHqi3ziNIymHfl1IRm.png",Мультиландия
 #EXTGRP:Детские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/748/stream.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="ttv25869" tvg-name="Надежда ТВ HD" tvg-logo="http://ttvrun.one/uploads/UoF3aZdYk46G5LVtvCfKD11oWsJ4D3.png",Надежда ТВ HD
-#EXTGRP:Религиозные
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/491/stream.m3u8
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33187" tvg-name="Намедни" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4132/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/VMkYJCj2vPkyx6430NBVk5EWOXkYrA.png",Намедни
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4132/stream.m3u8
@@ -4715,12 +4696,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4127/str
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33170" tvg-name="Пятак ТВ - Чёрный пёс" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4110/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/bdFF4snX9Tl1254KGovuTEGPfB5Mzx.png",Пятак ТВ - Чёрный пёс
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/4110/stream.m3u8
-#EXTINF:-1 group-title="Радио" tvg-id="ttv30797" tvg-name="Радио Спутник  HD" tvg-logo="http://ttvrun.one/uploads/qLBv9QAC1Z1IrSkQZ1eUkER5DvQcD1.png",Радио Спутник  HD
-#EXTGRP:Радио
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2867/stream.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="ttv29504" tvg-name="Радио Страна FM" tvg-logo="http://ttvrun.one/uploads/1swEm0A2WD5ziRjbp1p6P7l6YoVc9l.png",Радио Страна FM
-#EXTGRP:Музыка
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/465/stream.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-id="ttv397" tvg-name="РБК HD" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/1183/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/JUMDXZxxB3UiVpMpU8t0aCpbVzxTmP.png",РБК HD
 #EXTGRP:Новостные
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/1183/stream.m3u8
@@ -4826,9 +4801,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3191/str
 #EXTINF:-1 group-title="Детские" tvg-id="ttv29080" tvg-name="Солнце" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2049/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/9oIhx2CytylEKyi6cOYS7VIEl2SEc7.png",Солнце
 #EXTGRP:Детские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2049/stream.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="ttv25493" tvg-name="Союз" tvg-logo="http://ttvrun.one/uploads/ewQR1VD4HVPPju0XGk5SQBM6b6aQTc.png",Союз
-#EXTGRP:Религиозные
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/276/stream.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="ttv29175" tvg-name="Спортивный HD" tvg-logo="http://ttvrun.one/uploads/5eZw1nsluv7DMRf8VW26xI8Zxclsfo.png",Спортивный HD
 #EXTGRP:Спорт
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/2116/stream.m3u8
@@ -4925,9 +4897,6 @@ http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/1288/str
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv32940" tvg-name="Том Круз" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3989/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/3tENheqBepvVDoEOPf9qUzqYkyWbw0.png",Том Круз
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3989/stream.m3u8
-#EXTINF:-1 group-title="Религиозные" tvg-id="ttv25707" tvg-name="Три Ангела HD" tvg-logo="http://ttvrun.one/uploads/IouASH3z3K7FwgJczYFpvok41isTah.png",Три Ангела HD
-#EXTGRP:Религиозные
-http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/405/stream.m3u8
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv32621" tvg-name="Удивительные истории" catchup="default" catchup-source="http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3831/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/oFzsF18rK51ASgrBwbc9yDm0dcFC9d.png",Удивительные истории
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/4f6a040d8644734961e2820a8663ea1dbdb4e89b/3831/stream.m3u8
